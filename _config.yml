@@ -80,42 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  bio              : "Post-doc, Department of Economics, University of Salzburg"
+  name             : "Post-doc researcher"
+  bio              : "Department of Economics, University of Salzburg"
   avatar           : "profile.jpeg"
-  location         : "Department of Economics"
-  employer         : "University of Salzburg (PLUS)"
-  pubmed           : 
+  email            : "niko.hauz@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=uXtLiLIAAAAJ&hl=de&oi=ao"
-  email            : "niko.hauzenberger@plus.ac.at"
-  researchgate     : "https://www.researchgate.net/profile/Niko-Hauzenberger"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "nhauzenb"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/niko-hauzenberger-0bb3a2233/"
   orcid            : "https://orcid.org/0000-0002-4866-8830"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  linkedin         : "https://www.linkedin.com/in/niko-hauzenberger-0bb3a2233/"
   twitter          : "@NHauzenberger"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  github           : "nhauzenb"
+  location         : 
+  employer         : 
+  
 
 # Reading Files
 include:
