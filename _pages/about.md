@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am post-doc researcher of the empirical macroeconomics group at the University of Salzburg, led by Florian Huber. I am part of the project “Analysis of central bank communication using advance text modeling methods,” (no. 18718) funded by the Anniversary Fund of the Austrian Central Bank. In addition, my project “Non-parametric volatility modeling in macroeconomics and finance” (no. 18763) has also received funding by the OeNB Anniversary Fund. The duration of this project is from 11/2022 to 10/2025.
+I am post-doc researcher of the empirical macroeconomics group at the University of Salzburg, led by Florian Huber. I am part of the project “Analysis of central bank communication using advance text modeling methods,” (no. 18718) funded by the Anniversary Fund of the Austrian Central Bank. In addition, my project “Non-parametric volatility modeling in macroeconomics and finance” (no. 18763) has also received funding by the OeNB Anniversary Fund. The duration of this project is from 11/2022 to 10/2025. **italic text**
 
 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
