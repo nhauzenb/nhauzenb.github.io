@@ -1,8 +1,8 @@
 ---
 title: "Model Instability in Predictive Exchange Rate Regressions"
 collection: publications
-excerpt: '[[Publication (open access)](https://doi.org/10.1002/jae.2936)], [[Final arXiv version](https://arxiv.org/pdf/2102.13393.pdf)]'
+excerpt: '[[Publication (open access)](https://doi.org/10.1002/for.2620)]'
 date: 2020-01-01
-venue: 'Journal of Forecasting'
+venue: 'Journal of Forecasting, 39(2):168-186'
 ---
-**Abstract.** US yield curve dynamics are subject to time-variation, but there is ambiguity about its precise form. This paper develops a vector autoregressive (VAR) model with time-varying parameters and stochastic volatility, which treats the nature of parameter dynamics as unknown. Coefficients can evolve according to a random walk, a Markov switching process, observed predictors, or depend on a mixture of these. To decide which form is supported by the data and to carry out model selection, we adopt Bayesian shrinkage priors. Our framework is applied to model the US yield curve. We show that the model forecasts well, and focus on selected in-sample features to analyze determinants of structural breaks in US yield curve dynamics.
+**Abstract.** In this paper we aim to improve existing empirical exchange rate models by accounting for uncertainty with respect to the underlying structural representation. Within a flexible Bayesian framework, our modeling approach assumes that different regimes are characterized by commonly used structural exchange rate models, with transitions across regimes being driven by a Markov process. We assume a time-varying transition probability matrix with transition probabilities depending on a measure of the monetary policy stance of the central bank at home and in the USA. We apply this model to a set of eight exchange rates against the US dollar. In a forecasting exercise, we show that model evidence varies over time, and a model approach that takes this empirical evidence seriously yields more accurate density forecasts for most currency pairs considered.
