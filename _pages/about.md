@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+I am post-doc researcher of the empirical macroeconomics group at the University of Salzburg, led by Florian Huber. I am part of the project “Analysis of central bank communication using advance text modeling methods,” (no. 18718) funded by the Anniversary Fund of the Austrian Central Bank. In addition, my project “Non-parametric volatility modeling in macroeconomics and finance” (no. 18763) has also received funding by the OeNB Anniversary Fund. The duration of this project is from 11/2022 to 10/2025.
+
+
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
