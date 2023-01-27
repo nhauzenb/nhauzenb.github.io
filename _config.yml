@@ -80,6 +80,8 @@ analytics:
 
 # Site Author
 author:
+  name             : 
+  bio              : "Post-doc, Department of Economics, University of Salzburg
   avatar           : "profile.jpeg"
   location         : "Department of Economics"
   employer         : "University of Salzburg (PLUS)"
