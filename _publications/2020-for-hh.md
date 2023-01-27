@@ -1,3 +1,4 @@
+---
 title: "Model Instability in Predictive Exchange Rate Regressions"
 collection: publications
 excerpt: '[[Publication (open access)](https://doi.org/10.1002/jae.2936)], [[Final arXiv version](https://arxiv.org/pdf/2102.13393.pdf)]'
