@@ -1,8 +1,8 @@
 ---
-title: "General Bayesian TVP-VARs for modeling government bond yields"
+title: "Combining shrinkage and sparsity in conjugate vector autoregressive models"
 collection: publications
-excerpt: '[[Publication (open access)](https://doi.org/10.1002/jae.2936)], [[Final arXiv version](https://arxiv.org/pdf/2102.13393.pdf)]'
-date: 2022-01-01
-venue: 'Journal of Applied Econometrics'
+excerpt: '[[Publication (open access)](https://doi.org/10.1002/jae.2807)]'
+date: 2021-03-01
+venue: 'Journal of Applied Econometrics, 36(3):304-327'
 ---
-**Abstract.** US yield curve dynamics are subject to time-variation, but there is ambiguity about its precise form. This paper develops a vector autoregressive (VAR) model with time-varying parameters and stochastic volatility, which treats the nature of parameter dynamics as unknown. Coefficients can evolve according to a random walk, a Markov switching process, observed predictors, or depend on a mixture of these. To decide which form is supported by the data and to carry out model selection, we adopt Bayesian shrinkage priors. Our framework is applied to model the US yield curve. We show that the model forecasts well, and focus on selected in-sample features to analyze determinants of structural breaks in US yield curve dynamics.
+**Abstract.** Conjugate priors allow for fast inference in large dimensional vector autoregressive (VAR) models. But at the same time, they introduce the restriction that each equation features the same set of explanatory variables. This paper proposes a straightforward means of postprocessing posterior estimates of a conjugate Bayesian VAR to effectively perform equation-specific covariate selection. Compared with existing techniques using shrinkage alone, our approach combines shrinkage and sparsity in both the VAR coefficients and the error variance–covariance matrices, greatly reducing estimation uncertainty in large dimensions while maintaining computational tractability. We illustrate our approach by means of two applications. The first application uses synthetic data to investigate the properties of the model across different data-generating processes, and the second application analyzes the predictive gains from sparsification in a forecasting exercise for U.S. data.
