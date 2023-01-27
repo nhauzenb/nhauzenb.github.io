@@ -1,20 +1,22 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Publication in peer reviewed journals
+
+Publications in refereed journals
 ======
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Publication in peer reviewed journals
+
+Publications in institutional journals
 ======
 
 {% for post in site.publications reversed %}
