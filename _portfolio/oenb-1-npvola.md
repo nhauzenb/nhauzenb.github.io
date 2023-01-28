@@ -1,5 +1,5 @@
 ---
-title: "Non-parametric volatility modeling in macroeconomics and finance"
+title: "Non-parametric volatility modeling in macroeconomics and finance."
 excerpt: "Role: principal investigator. Funding: EUR 232,000.00 from the Anniversary Fund of the Austrian
 Central Bank (OeNB). Project duration: 11/2022–10/2025."
 collection: portfolio
