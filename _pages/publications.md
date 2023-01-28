@@ -21,6 +21,6 @@ Publications in refereed journals
 Publications in institutional journals
 ======
 
-{% for post in site.institutional reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
