@@ -15,6 +15,8 @@ Publications in refereed journals
   {% include archive-single.html %}
 {% endfor %}
 
+======
+======
 
 Publications in institutional journals
 ======
