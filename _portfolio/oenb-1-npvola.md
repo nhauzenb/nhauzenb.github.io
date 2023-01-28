@@ -1,6 +1,7 @@
 ---
 title: "Non-parametric volatility modeling in macroeconomics and finance"
-excerpt: "Role: principal investigator. Funding: EUR 232,000.00 from the OeNB’s Anniversary Fund. Project duration: 11/2022 –10/2025."
+excerpt: "Role: principal investigator. Funding: EUR 232,000.00 from the Anniversary Fund of the Austrian
+Central Bank (OeNB). Project duration: 11/2022–10/2025."
 collection: portfolio
 ---
 <p align="justify"> <b>Summary.</b> During recessionary episodes (such as the global financial crisis or the Covid-19 pandemic) many important macroeconomic and financial quantities experience substantial shifts in the volatility process, while during tranquil periods the shock volatilities remain relatively stable. This project sets forth a research agenda to develop and apply more flexible volatility models for macroeconomic and financial data. These methods will be also useful for practitioners working on emerging market economies. These countries often feature short time series which are subject to several structural breaks.
