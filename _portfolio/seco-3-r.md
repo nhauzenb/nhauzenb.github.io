@@ -1,9 +1,8 @@
 ---
-title: "Non-parametric volatility modeling in macroeconomics and finance"
-excerpt: "Role: principal investigator. Funding: EUR 232,000.00 from the Anniversary Fund of the Austrian
-Central Bank (OeNB). Project duration: 11/2022–10/2025."
+title: "Interest rate and exchange rate fluctuations over two centuries."
+excerpt: "with F. Huber, D. Kaufmann (principal investigator), R. Stuart, and C. Tille. Role: Co-investigator. Funding: State Secretariat for Economic Affairs (SECO). Project duration: 08/2020 – 06/2021"
 collection: portfolio
 ---
-<p align="justify"> <b>Summary.</b> </p>
+[**Article related to this project**](https://nhauzenb.github.io/institutional/2021-01-01-SECO/)
 
-[**News article of the Economics Department in the Universty of Salzburg**](https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-parametric-volatility-modeling-in-macroeconomics-and-finance-project-of-niko-hauzenberger/?lang=en&pgrp=281990&pg=283628&is_paged=7).
+[**Policy report published in in-house journal of State Secretariat for Economic Affairs (SECO)**](https://www.seco.admin.ch/seco/en/home/Publikationen_Dienstleistungen/Publikationen_und_Formulare/Strukturwandel_Wachstum/Wachstum/interest_rates_switzerland_1852-2020.html).
