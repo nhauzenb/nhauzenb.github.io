@@ -185,6 +185,8 @@
     }
 
     @include breakpoint($small) {
+      text-align: right;
+       
       .archive__item-teaser {
         @include span(5 of 12);
       }
