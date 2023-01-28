@@ -212,7 +212,7 @@ defaults:
   # _institutional
   - scope:
       path: ""
-      type: institutional
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _wps
   - scope:
       path: ""
-      type: wps
+      type: publications
     values:
       layout: single
       author_profile: true
