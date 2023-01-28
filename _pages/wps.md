@@ -11,7 +11,7 @@ author_profile: true
 Working papers
 ======
 
-{% for post in site.publications reversed %}
+{% for post in site.wps reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
