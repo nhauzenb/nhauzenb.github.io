@@ -157,6 +157,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  institutional:
+    output: true
+    permalink: /:collection/:path/ 
+  wps:
+    output: true
+    permalink: /:collection/:path/  
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -203,6 +209,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _institutional
+  - scope:
+      path: ""
+      type: institutional
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true  
+  # _wps
+  - scope:
+      path: ""
+      type: wps
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true        
   # _portfolio
   - scope:
       path: ""
