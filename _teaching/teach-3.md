@@ -1,7 +1,7 @@
 ---
 title: "Advanced macroeconometrics."
 collection: teaching
-type: "Graduate course"
+type: "<b> Graduate </b> course"
 permalink: /teaching/metrcs1
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
