@@ -12,4 +12,4 @@ issue: ''
 
 [**arXiv**](https://arxiv.org/abs/1801.02925).
 
-[**ESRB working paper.**](https://www.esrb.europa.eu/pub/pdf/wp/esrb.wp80.en.pdf).
+[**ESRB working paper**](https://www.esrb.europa.eu/pub/pdf/wp/esrb.wp80.en.pdf).
