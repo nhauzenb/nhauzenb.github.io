@@ -1,6 +1,6 @@
 ---
 title: "Interest rate and exchange rate fluctuations over two centuries."
-excerpt: "with F. Huber, D. Kaufmann (principal investigator), R. Stuart, and C. Tille. Role: Co-investigator. Funding: State Secretariat for Economic Affairs (SECO). Project duration: Aug 2020 – Jun 2021 (<b>completed</b>)."
+excerpt: "with F. Huber, D. Kaufmann (principal investigator), R. Stuart, and C. Tille. Role: Co-investigator. Funding: State Secretariat for Economic Affairs (SECO). Project duration: Aug 2020 – Jun 2021 (**completed**)."
 collection: portfolio
 ---
 <p align="justify"> <b>Principal investigator.</b> D. Kaufmann.
