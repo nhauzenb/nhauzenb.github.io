@@ -1,7 +1,7 @@
 ---
 title: "Macroeconometrics: structural and predictive inference."
 collection: teaching
-type: "Graduate course"
+type: "<b> Graduate </b> course"
 permalink: /teaching/strpred
 venue: "University of Salzburg"
 excerpt: ""
