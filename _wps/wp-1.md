@@ -1,5 +1,5 @@
 ---
-title: "Implications of macroeconomic volatility in the Euro area. [arXiv](https://arxiv.org/abs/1801.02925)"
+title: "Implications of macroeconomic volatility in the Euro area. [WP](https://arxiv.org/abs/1801.02925)"
 collection: wps
 year: '2018'
 excerpt: ''
