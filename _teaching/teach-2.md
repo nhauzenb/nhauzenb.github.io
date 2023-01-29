@@ -5,7 +5,7 @@ type: "<b>Undergraduate</b> course"
 permalink: /teaching/math
 venue: "University of Salzburg"
 excerpt: ""
-semesters: "Winter 20/21, 21/22, 22/23)"
+semesters: "Winter 2020/21, 2021/22, 2022/23)"
 coauthors: 
 location: "Salzburg"
 ---
