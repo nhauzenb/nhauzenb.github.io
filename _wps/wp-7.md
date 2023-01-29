@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Bayesian Neural Networks for Macroeconomics and Finance. [arXiv](https://arxiv.org/abs/2211.04752)"
+title: "Enhanced Bayesian Neural Networks for Macroeconomics and Finance. [WP](https://arxiv.org/abs/2211.04752)"
 collection: wps
 year: 'under review'
 excerpt: ''
