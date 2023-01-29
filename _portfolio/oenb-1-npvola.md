@@ -5,15 +5,12 @@ Central Bank (OeNB). Project duration: 11/2022–10/2025."
 collection: portfolio
 ---
 <p align="justify"> <b>ID.</b> 18763.
-
-  
+<br>
 <b>Principal investigator.</b> N. Hauzenberger.
-  
-  
+<br>
 <b>Funding.</b> EUR 232,000.00 from the Anniversary Fund of the Austrian
 Central Bank (OeNB).
-  
-  
+<br>
 <b>Project duration.</b> November 2022 – October 2025.
 
   
