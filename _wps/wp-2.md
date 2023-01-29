@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Shrinkage Priors for Large Time-varying Parameter Regressions using Scalable Markov Chain Monte Carlo Methods. [WP](https://arxiv.org/abs/2005.03906)"
+title: "Dynamic shrinkage priors for large time-varying parameter regressions using scalable Markov Chain Monte Carlo methods. [WP](https://arxiv.org/abs/2005.03906)"
 collection: wps
 year: 'revise and resubmit'
 excerpt: ''
