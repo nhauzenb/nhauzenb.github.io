@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Modeling of Time-varying Parameters Using Regression Trees. [arXiv](https://arxiv.org/abs/2209.11970)"
+title: "Bayesian modeling of time-varying parameters using regression trees. [WP](https://arxiv.org/abs/2209.11970)"
 collection: wps
 year: 'under review'
 excerpt: ''
