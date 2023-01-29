@@ -1,5 +1,5 @@
 ---
-title: "Gaussian Process Vector Autoregressions and Macroeconomic Uncertainty. [arXiv](https://arxiv.org/abs/2112.01995)"
+title: "Gaussian Process Vector Autoregressions and Macroeconomic Uncertainty. [WP](https://arxiv.org/abs/2112.01995)"
 collection: wps
 year: 'revise and resubmit'
 excerpt: ''
