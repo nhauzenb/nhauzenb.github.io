@@ -4,12 +4,12 @@ excerpt: "with F. Huber, D. Kaufmann (principal investigator), R. Stuart, and C.
 collection: portfolio
 ---
 <p align="justify"> <b>Principal investigator.</b> D. Kaufmann.
-
-<p align="justify"> <b>Co-investigators.</b> N. Hauzenberger, F. Huber, R. Stuart, and C. Tille.
-    
-<p align="justify"> <b>Funding.</b> State Secretariat for Economic Affairs (SECO).
-  
-<p align="justify"> <b>Project duration.</b> August 2020 – June 2021 (<b>completed</b>).
+<br> <br>
+<b>Co-investigators.</b> N. Hauzenberger, F. Huber, R. Stuart, and C. Tille.
+<br> <br>  
+<b>Funding.</b> State Secretariat for Economic Affairs (SECO).
+<br> <br>  
+<b>Project duration.</b> August 2020 – June 2021 (<b>completed</b>).
 
 [**Final article related to this project**](https://nhauzenb.github.io/institutional/2021-01-01-SECO/).
 
