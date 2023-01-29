@@ -1,7 +1,7 @@
 ---
 title: "Quantitative methods in economics."
 collection: teaching
-type: "Graduate course"
+type: "<b> Graduate </b> course"
 permalink: /teaching/quant
 venue: "University of Salzburg"
 excerpt: ""
