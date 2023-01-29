@@ -2,10 +2,10 @@
 title: "Economic and financial policy for legal professionals."
 collection: teaching
 type: "<b>Undergraduate</b> course"
-permalink: /teaching/wu
+permalink: /teaching/econ
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
-semesters: "Summer 2019"
+semesters: "Summer 19"
 coauthors: 
 location: "Vienna"
 ---
