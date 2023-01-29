@@ -1,10 +1,10 @@
 ---
 title: "Textual inference for central bank communication."
 excerpt: "with B. Grün and P. Hofmarcher (principal investigator). Role: Co-investigator. Funding: EUR 240,910.00 from the Anniversary Fund of the Austrian
-Central Bank (OeNB). Project duration: 7/2022–6/2025."
+Central Bank (OeNB). Project duration: July 2022 - June 2025."
 collection: portfolio
 ---
-<p align="justify"> <b>ID.</b> 18718
+<p align="justify"> <b>ID.</b> 18718.
 <br> <br>
 <b>Principal investigator.</b> P. Hofmarcher.
 <br> <br>
