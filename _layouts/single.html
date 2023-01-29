@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.semesters }}{{ page.coauthors }}. </p>
+          <p> {{ page.type }}; <i>{{ page.venue }}</i>; {{ page.semesters }}{{ page.coauthors }}. </p>
         {% elsif page.journal and page.year %}
           <p> {{ page.coauthors }} <i>{{ page.journal }}</i>{{ page.issue }}, {{ page.year }}. </p>
         {% endif %}
