@@ -8,7 +8,7 @@ collection: portfolio
 
 <p align="justify"> <b>Principal investigator.</b> Paul Hofmarcher
 
-<p align="justify"> <b>o-investigators.</b> Bettina Grün and Niko Hauzenberger
+<p align="justify"> <b>Co-investigators.</b> Bettina Grün and Niko Hauzenberger
     
 <p align="justify"> <b>Funding.</b> EUR 240,910.00 from the Anniversary Fund of the Austrian
 Central Bank (OeNB)
