@@ -10,4 +10,4 @@ coauthors: " (with F. Huber)"
 location: "online"
 ---
 
-Introduction to Bayesian econometrics with R, multivariate time series for macroeconomics, Big Data issues. 
+Introduction to Bayesian econometrics with R, multivariate time series analysis for macroeconomics, Big Data issues. 
