@@ -12,6 +12,6 @@ issue: ', 2022'
 
 [**arXiv**](https://arxiv.org/abs/2211.04752).
 
-[**Slides**](https://doi.org/10.26509/frbc-wp-202305). xyz, xyz, xyz.
+[**Slides**](https://www.dropbox.com/s/j4ezhch1cvod85u/CFE2022-Klieber-slides.pdf?dl=0): presented at CFE 2022 (by co-author), COMPSTAT 2022 (by co-author).
 
 
