@@ -14,4 +14,4 @@ issue: ', 2021'
 
 [**CEPR discussion paper**](https://cepr.org/publications/dp17646).
 
-[**Slides**](https://www.dropbox.com/s/ivgyulljasnuu1n/IAAE_2022.pdf?dl=0): presented at CFE 2022, Decision Making under Uncertainty (DeMUr) 2022 workshop, EABCN and Bundesbank conference on challenges in empirical macroeconomics since 2020 (by co-author), ESOBE 2022 (by co-author), IAAE 2022, University of Montreal econometrics seminar (by co-author).
+[**Slides**](https://www.dropbox.com/s/o0qmvjfjf95qu6o/CFE2022-Hauzenberger-slides.pdf?dl=0): presented at CFE 2022, Decision Making under Uncertainty (DeMUr) 2022 workshop, EABCN and Bundesbank conference on challenges in empirical macroeconomics since 2020 (by co-author), ESOBE 2022 (by co-author), IAAE 2022, University of Montreal econometrics seminar (by co-author).
