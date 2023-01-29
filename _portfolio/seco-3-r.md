@@ -9,7 +9,7 @@ collection: portfolio
 <br> <br>  
 <b>Funding.</b> State Secretariat for Economic Affairs (SECO).
 <br> <br>  
-<b>Project duration.</b> August 2020 – June 2021 (<b>completed</b>).
+<b>Project duration.</b> August 2020 - June 2021 (<b>completed</b>).
 </p>
   
 [**Final article related to this project**](https://nhauzenb.github.io/institutional/2021-01-01-SECO/).
