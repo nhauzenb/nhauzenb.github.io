@@ -5,7 +5,7 @@ type: "<b> Graduate </b> course"
 permalink: /teaching/quant
 venue: "University of Salzburg"
 excerpt: ""
-semesters: "Winter 19/20, 20/21, 21/22, 22/23; Summer 23"
+semesters: "Winter 2019/20, 2020/21, 2021/22, 2022/23; Summer 2023"
 coauthors: " (with K. Nowotny and H. Winner)"
 location: "Salzburg"
 ---
