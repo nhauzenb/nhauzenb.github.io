@@ -6,8 +6,8 @@ permalink: /teaching/neuchatel
 venue: "University of Neuchâtel"
 excerpt: ""
 semesters: "Summer 2021"
-coauthors: with Florian Huber
+coauthors: with F. Huber
 location: "online"
 ---
 
-Multivariate time series for macroeconometrics; Big Data issues; regularization, penalization and shrinkage; state-space models; time-varying parameter regressions; regime-switching regressions; stochastic volatility; impulse response analysis. 
+Introduction to Bayesian econometrics with R, multivariate time series for macroeconomics, Big Data issues. 
