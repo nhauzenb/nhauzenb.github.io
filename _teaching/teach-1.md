@@ -5,7 +5,7 @@ type: "<b>Undergraduate</b> course"
 permalink: /teaching/econ
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
-semesters: "Summer 19"
+semesters: "Summer 2019"
 coauthors: 
 location: "Vienna"
 ---
