@@ -6,7 +6,7 @@ permalink: /teaching/metrcs1
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
 semesters: "Summer 19"
-coauthors: with M. Pfarrhofer and T. O. Zörner
+coauthors: " (with M. Pfarrhofer and T. O. Zörner)"
 location: "Vienna"
 ---
 
