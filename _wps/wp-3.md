@@ -1,5 +1,5 @@
 ---
-title: "Sparse time-varying parameter VECMs with an application to modeling electricity prices. [arXiv](https://arxiv.org/abs/2011.04577)"
+title: "Sparse time-varying parameter VECMs with an application to modeling electricity prices. [WP](https://arxiv.org/abs/2011.04577)"
 collection: wps
 year: 'reject and resubmit'
 excerpt: ''
