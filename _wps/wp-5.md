@@ -1,5 +1,5 @@
 ---
-title: "What drives long-term interest rates? Evidence from the entire Swiss Franc history 1852-2020. [WP](https://www5.unine.ch/RePEc/ftp/irn/pdfs/WP22-03.pdf)"
+title: "What drives long-term interest rates? Evidence from the entire Swiss Franc history. [WP](https://www5.unine.ch/RePEc/ftp/irn/pdfs/WP22-03.pdf)"
 collection: wps
 year: 'under review'
 excerpt: ''
