@@ -1,7 +1,7 @@
 ---
 title: "Gaussian process VARs and macroeconomic uncertainty. [WP](https://arxiv.org/abs/2112.01995)"
 collection: wps
-year: 'revise and resubmit'
+year: 'under review'
 excerpt: ''
 coauthors: 'with F. Huber, M. Marcellino, and N. Petz,' 
 journal: 'arXiv:2112.01995'
