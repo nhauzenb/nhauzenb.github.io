@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://www.dropbox.com/s/bmsj8kmjvym0csr/NH_CV_March2023.pdf?dl=0" type="application/pdf" />
+<embed src="nhauzenb.github.io/files/NH_CV_March2023.pdf" type="application/pdf" />
