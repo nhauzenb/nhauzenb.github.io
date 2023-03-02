@@ -14,4 +14,6 @@ I am post-doc researcher of the empirical macroeconomics group at the University
 My research interests include: Bayesian methods applied to macroeconomic and financial time series, state space modeling techniques, parameter instabilities in predictive regressions of economic fundamentals, and modeling changing transmission channels of economic policy.
 
 [CV](https://www.dropbox.com/s/bmsj8kmjvym0csr/NH_CV_March2023.pdf?dl=0) 
+<embed src="https://www.dropbox.com/s/bmsj8kmjvym0csr/NH_CV_March2023.pdf?dl=0" width="600" height="700" type='application/pdf'> 
+
 ======
