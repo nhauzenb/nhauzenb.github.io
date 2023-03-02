@@ -15,5 +15,3 @@ My research interests include: Bayesian methods applied to macroeconomic and fin
 
 [CV](https://www.dropbox.com/s/bmsj8kmjvym0csr/NH_CV_March2023.pdf?dl=0) 
 ======
-
-<embed src="nhauzenb.github.io/files/NH_CV_March2023.pdf" type="application/pdf" />
