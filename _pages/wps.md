@@ -15,8 +15,3 @@ Working papers
   {% include archive-single.html %}
 {% endfor %}
 
-<br>
-<br>
-
-Work in progress
-======
