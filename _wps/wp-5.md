@@ -1,7 +1,7 @@
 ---
 title: "Gaussian process VARs and macroeconomic uncertainty. [WP](https://cepr.org/publications/dp17646)"
 collection: wps
-year: 'under review'
+year: 'revise and resubmit'
 excerpt: ''
 coauthors: 'with F. Huber, M. Marcellino, and N. Petz,' 
 journal: 'CEPR DP 17646'
