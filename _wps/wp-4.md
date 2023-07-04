@@ -1,7 +1,7 @@
 ---
 title: "What drives long-term interest rates? Evidence from the entire Swiss Franc history. [WP](https://www5.unine.ch/RePEc/ftp/irn/pdfs/WP22-03.pdf)"
 collection: wps
-year: 'under review'
+year: 'reject and resubmit'
 excerpt: ''
 coauthors: 'with D. Kaufmann, R. Stuart, and C. Tille,' 
 journal: 'IRENE Working Paper'
