@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Bayesian neural networks for macroeconomics and finance. [WP](https://arxiv.org/abs/2211.04752)"
 collection: wps
-year: 'under review'
+year: 'revise and resubmit'
 excerpt: ''
 coauthors: 'with F. Huber, K. Klieber, and M. Marcellino,' 
 journal: 'arXiv:2211.04752'
