@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Post-doctoral researcher"
-  bio              : "Department of Economics, University of Salzburg"
+  name             : "Senior Lecturer"
+  bio              : "Department of Economics, Strathclyde Business School, University of Strathclyde"
   avatar           : "profile.jpeg"
   email            : "niko.hauz@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=uXtLiLIAAAAJ&hl=de&oi=ao"
   orcid            : "https://orcid.org/0000-0002-2683-8421"
   linkedin         : 
-  twitter          : "@NHauzenberger"
+  twitter          : 
   github           : "nhauzenb"
-  location         : 
+  location         : "199 Cathedral Street, Glasgow, G4 0QU"
   employer         : 
   
 
