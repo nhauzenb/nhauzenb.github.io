@@ -3,8 +3,8 @@ title: "Macroeconomic forecasting using BVARs. [Draft chapter](https://www.dropb
 collection: wps
 year: '2023'
 excerpt: ''
-coauthors: 'with F. Huber and G. Koop,' 
-journal: 'in Handbook of Macroeconomic Forecasting'
+coauthors: 'with F. Huber and G. Koop, in' 
+journal: 'Handbook of Macroeconomic Forecasting'
 issue: ', edited by Mike Clements and Ana Galvão'
 ---
 
