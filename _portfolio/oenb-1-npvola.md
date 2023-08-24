@@ -18,7 +18,7 @@ Central Bank (OeNB).
 
 [**News article of the Universty of Salzburg**](https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-parametric-volatility-modeling-in-macroeconomics-and-finance-project-of-niko-hauzenberger/?lang=en&pgrp=281990&pg=283628&is_paged=7).
 
-**Papers completed as part of this project:**
+** (Working) papers completed as part of this project:**
 
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-7/).
