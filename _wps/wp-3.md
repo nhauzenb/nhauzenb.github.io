@@ -1,7 +1,7 @@
 ---
 title: "Sparse time-varying parameter VECMs with an application to modeling electricity prices. [WP](https://arxiv.org/abs/2011.04577)"
 collection: wps
-year: 'under review'
+year: 'revise and resubmit'
 excerpt: ''
 coauthors: 'with M. Pfarrhofer and L. Rossini,' 
 journal: 'arXiv:2011.04577'
