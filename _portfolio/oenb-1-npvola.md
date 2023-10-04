@@ -18,12 +18,16 @@ Central Bank (OeNB).
 
 [**News article of the Universty of Salzburg**](https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-parametric-volatility-modeling-in-macroeconomics-and-finance-project-of-niko-hauzenberger/?lang=en&pgrp=281990&pg=283628&is_paged=7).
 
-**(Working) papers completed as part of this project:**
+** Published papers produced as part of this project:**
+
+* [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://nhauzenb.github.io/publications/2023-03-01-hhk-snde/).
+
+
+** Working papers completed as part of this project:**
 
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-7/).
 * [*Enhanced Bayesian neural networks for macroeconomics and finance*](https://nhauzenb.github.io/wps/wp-6/).
 * [*Gaussian process VARs and macroeconomic uncertainty*](https://nhauzenb.github.io/wps/wp-5/).
 * [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://nhauzenb.github.io/wps/wp-3/).
-* [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://nhauzenb.github.io/wps/wp-2/).
 
