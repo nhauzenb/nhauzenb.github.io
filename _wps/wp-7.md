@@ -1,5 +1,5 @@
 ---
-title: "Bayesian modeling of TVPs using regression trees. [WP](https://doi.org/10.26509/frbc-wp-202305)"
+title: "Bayesian modeling of TVP-VARs using regression trees. [WP](https://doi.org/10.26509/frbc-wp-202305)"
 collection: wps
 year: 'under review'
 excerpt: ''
@@ -14,7 +14,7 @@ issue: ', 2023'
 
 [**arXiv**](https://arxiv.org/abs/2209.11970).
 
-[**Slides**](https://www.dropbox.com/scl/fi/t7x2uld1en74wjroczdn5/UofG-ESS_2023.pdf?rlkey=aflcq7erqd56gpqowj65c2nh8&dl=0). Presented at Bayes@Austria 2020 (by co-author), CFE 2022 (by co-author), CFOBE 2022 (by co-author), Econometrics seminar series 2023 (University of Glasgow), FRBC forecasting group seminar (by co-author), IIASA research seminar (by co-author), Xiamen University economic research seminar (by co-author).
+[**Slides**](https://www.dropbox.com/scl/fi/6x0zv90y49cz4of744saz/CFE2023_NP-TVP-VAR.pdf?rlkey=bvn1uzwc275vcfx45pe68icoq&dl=0). Presented at Bayes@Austria 2020 (by co-author), CFE 2022 (by co-author), CFOBE 2022 (by co-author), Econometrics seminar series 2023 (University of Glasgow), FRBC forecasting group seminar (by co-author), IIASA research seminar (by co-author), Xiamen University economic research seminar (by co-author), CFE 2023.
 
 
 
