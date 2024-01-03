@@ -13,6 +13,6 @@ issue: ', edited by Mike Clements and Ana Galvão'
 
 [**Draft chapter**](https://www.dropbox.com/scl/fi/cry8xuxkwwdtc3matz8g1/HHK_bookchp.pdf?rlkey=45ysy3b2hpqykkxormms9bipe&dl=0).
 
-[**R code package**](https://github.com/nhauzenb/hhk-bkchpt-bvars}{github.com/nhauzenb/hhk-bkchpt-bvars).
+[**R code package**](https://github.com/nhauzenb/hhk-bkchpt-bvars).
 
 
