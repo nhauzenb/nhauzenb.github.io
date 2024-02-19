@@ -5,7 +5,7 @@ type: "<b> Scottish Graduate Programme in Economics </b> course"
 permalink: /teaching/mctrs3
 venue: "University of Edinburgh"
 excerpt: ""
-semesters: "Summer 2021"
+semesters: "Semester 2, 2024"
 coauthors: " (with G. Koop and P. Wu)"
 location: "Edinburgh, UK"
 ---
