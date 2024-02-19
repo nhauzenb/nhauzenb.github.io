@@ -10,7 +10,7 @@ coauthors: " (with G. Koop and P. Wu)"
 location: "Edinburgh, UK"
 ---
 
-[**Course course website.**](https://sites.google.com/site/garykoop/teaching/sgpe-bayesian-econometrics)
+[**Course website.**](https://sites.google.com/site/garykoop/teaching/sgpe-bayesian-econometrics)
 
 [**Gary's website.**](https://sites.google.com/site/garykoop/)
 
