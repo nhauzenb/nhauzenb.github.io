@@ -2,7 +2,7 @@
 title: "Advanced macroeconometrics."
 collection: teaching
 type: "<b> Graduate </b> course"
-permalink: /teaching/metrcs1
+permalink: /teaching/mmetrcs
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
 semesters: "Summer 2019"
