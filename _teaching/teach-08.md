@@ -2,7 +2,7 @@
 title: " Analysis of economic data (EC951, EC975)."
 collection: teaching
 type: "<b> Graduate Programme in Applied Economics </b> course"
-permalink: /teaching/mctrs7
+permalink: /teaching/ec951
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "2023/25"
