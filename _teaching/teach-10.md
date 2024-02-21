@@ -2,7 +2,7 @@
 title: "Bayesian econometrics (ECNM11060)."
 collection: teaching
 type: "<b> Scottish Graduate Programme in Economics </b> course"
-permalink: /teaching/mctrs3
+permalink: /teaching/sgpe2
 venue: "University of Edinburgh"
 excerpt: ""
 semesters: "Spring 2024"
