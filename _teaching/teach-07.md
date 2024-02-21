@@ -2,7 +2,7 @@
 title: "Bayesian econometrics."
 collection: teaching
 type: "<b> Graduate </b> course"
-permalink: /teaching/mctrs2
+permalink: /teaching/bayes
 venue: "University of Neuchâtel"
 excerpt: ""
 semesters: "Summer 2021"
