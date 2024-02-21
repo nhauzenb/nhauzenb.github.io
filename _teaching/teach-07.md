@@ -1,5 +1,5 @@
 ---
-title: " Analysis of economic data (EC951)."
+title: " Analysis of economic data (EC951, EC975)."
 collection: teaching
 type: "<b> Graduate Programme in Applied Economics </b> course"
 permalink: /teaching/mctrs7
