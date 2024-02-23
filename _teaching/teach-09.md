@@ -1,5 +1,5 @@
 ---
-title: "Advanced time series econometrics(ECNM11049)."
+title: "Advanced time series econometrics (ECNM11049)."
 collection: teaching
 type: "<b> Scottish Graduate Programme in Economics </b> course"
 permalink: /teaching/sgpe1
