@@ -15,7 +15,7 @@ location: ""
 </p>
 
 
-### VoxEU columns.
+### VoxEU columns and comments/reports by central bankers.
 1. TBA
 2. TBA
 
