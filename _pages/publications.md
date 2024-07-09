@@ -18,6 +18,16 @@ Publications in refereed journals
 <br>
 <br>
 
+Book chapters
+======
+
+{% for post in site.bookchapters reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br>
+<br>
+
 Publications in institutional journals
 ======
 
