@@ -21,7 +21,7 @@ Publications in refereed journals
 Book chapters
 ======
 
-{% for post in site.bookchapters reversed %}
+{% for post in site.bkchpt reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
