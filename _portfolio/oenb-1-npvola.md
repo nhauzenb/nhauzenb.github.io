@@ -20,14 +20,21 @@ Central Bank (OeNB).
 
 <b>Published papers produced as part of this project.</b> 
 
+* [*Gaussian process VARs and macroeconomic uncertainty*](https://nhauzenb.github.io/publications/2024-01-01-hhmp-jbes/).
 * [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://nhauzenb.github.io/publications/2023-03-01-hhk-snde/).
-
 
 <b>Working papers completed as part of this project.</b>
 
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-7/).
 * [*Enhanced Bayesian neural networks for macroeconomics and finance*](https://nhauzenb.github.io/wps/wp-6/).
-* [*Gaussian process VARs and macroeconomic uncertainty*](https://nhauzenb.github.io/wps/wp-5/).
 * [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://nhauzenb.github.io/wps/wp-3/).
+
+<b>Presentations at international conferences for disseminating results. </b> 
+
+* [*Stochastic block network vector autoregressions* presented by Tobias Scheckel at CFE 2023](https://www.dropbox.com/scl/fi/0fergf0kiybo5x6on8lhy/bvar_sbm.pdf?rlkey=p0ubbc9ewv6h5eibemso7oews&dl=0).
+* [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area* presented by Anna Stelzer at ICMAIF 2023].
+
+
+
 
