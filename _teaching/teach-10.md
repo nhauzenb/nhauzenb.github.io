@@ -5,7 +5,7 @@ type: "<b> Scottish Graduate Programme in Economics </b> course"
 permalink: /teaching/sgpe2
 venue: "University of Edinburgh"
 excerpt: ""
-semesters: "Spring 2024"
+semesters: "Spring 2024, 2025"
 coauthors: " (with G. Koop and P. Wu)"
 location: "Edinburgh, UK"
 ---
