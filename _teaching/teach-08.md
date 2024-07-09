@@ -5,8 +5,8 @@ type: "<b> Graduate Programme in Applied Economics </b> course"
 permalink: /teaching/ec951
 venue: "University of Strathclyde"
 excerpt: ""
-semesters: "2023/24"
-coauthors: " (with A. Romiti)"
+semesters: "2023/24, 2024/25"
+coauthors: " (with A. Romiti and L. McInally)"
 location: "Glasgow, UK"
 ---
 
