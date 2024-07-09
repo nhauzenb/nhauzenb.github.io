@@ -42,6 +42,8 @@
           <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{ post.coauthors }}. </p>
         {% elsif post.collection == 'publications' %}
           <p> {{ post.coauthors }} <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}. </p>
+        {% elsif post.collection == 'book' %}
+          <p> {{ post.coauthors }} <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}. </p>
         {% elsif post.collection == 'wps' %}
           <p> {{ post.coauthors }} <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}. </p>
         {% elsif post.collection == 'institutional' %}
