@@ -32,8 +32,8 @@ Central Bank (OeNB).
 
 <b>Presentations at international conferences for disseminating results. </b> 
 
-* [*Stochastic block network vector autoregressions* presented by Tobias Scheckel at CFE 2023](https://www.dropbox.com/scl/fi/0fergf0kiybo5x6on8lhy/bvar_sbm.pdf?rlkey=p0ubbc9ewv6h5eibemso7oews&dl=0).
-* [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area* presented by Anna Stelzer at ICMAIF 2023].
+* [*Stochastic block network vector autoregressions*](https://www.dropbox.com/scl/fi/0fergf0kiybo5x6on8lhy/bvar_sbm.pdf?rlkey=p0ubbc9ewv6h5eibemso7oews&dl=0) presented by Tobias Scheckel at CFE 2023.
+* *Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area* presented by Anna Stelzer at ICMAIF 2023.
 
 
 
