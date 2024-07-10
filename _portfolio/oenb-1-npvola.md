@@ -26,6 +26,7 @@ Central Bank (OeNB).
 <b>Working papers completed as part of this project.</b>
 
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
+* [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158). 
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-7/).
 * [*Enhanced Bayesian neural networks for macroeconomics and finance*](https://nhauzenb.github.io/wps/wp-6/).
 * [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://nhauzenb.github.io/wps/wp-3/).
@@ -33,7 +34,7 @@ Central Bank (OeNB).
 <b>Presentations at international conferences for disseminating results. </b> 
 
 * [*Stochastic block network vector autoregressions*](https://www.dropbox.com/scl/fi/0fergf0kiybo5x6on8lhy/bvar_sbm.pdf?rlkey=p0ubbc9ewv6h5eibemso7oews&dl=0) presented by Tobias Scheckel at CFE 2023.
-* *Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area* presented by Anna Stelzer at ICMAIF 2023.
+* [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158) presented by Anna Stelzer at ICMAIF 2023.
 
 
 
