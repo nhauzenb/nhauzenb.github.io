@@ -212,6 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _book
+  - scope:
+      path: ""
+      type: book
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _institutional
   - scope:
       path: ""
