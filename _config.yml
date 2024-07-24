@@ -157,6 +157,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  book:
+    output: true
+    permalink: /:collection/:path/ 
   institutional:
     output: true
     permalink: /:collection/:path/ 
