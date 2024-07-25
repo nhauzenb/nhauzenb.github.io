@@ -25,6 +25,7 @@ Central Bank (OeNB).
 
 <b>Working papers completed as part of this project.</b>
 
+* [*Bayesian modelling of VAR precision matrices using stochastic block networks*](https://arxiv.org/abs/2407.16349).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158). 
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-7/).
