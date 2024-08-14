@@ -29,7 +29,7 @@ Central Bank (OeNB).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158). 
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-03/).
-* [*Enhanced Bayesian neural networks for macroeconomics and finance*](https://nhauzenb.github.io/wps/wp-08/).
+* [*Bayesian neural networks for macroeconomic analysis*](https://nhauzenb.github.io/wps/wp-08/).
 * [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://nhauzenb.github.io/wps/wp-01/).
 
 <b>Presentations at international conferences for disseminating results. </b> 
