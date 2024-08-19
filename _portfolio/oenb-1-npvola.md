@@ -22,6 +22,7 @@ Central Bank (OeNB).
 
 * [*Gaussian process VARs and macroeconomic uncertainty*](https://nhauzenb.github.io/publications/2024-01-01-hhmp-jbes/).
 * [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://nhauzenb.github.io/publications/2023-03-01-hhk-snde/).
+* [*Bayesian neural networks for macroeconomic analysis*](https://nhauzenb.github.io/publications/2024-02-01-hhkm-joe/).
 
 <b>Working papers completed as part of this project.</b>
 
@@ -29,7 +30,6 @@ Central Bank (OeNB).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158). 
 * [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-03/).
-* [*Bayesian neural networks for macroeconomic analysis*](https://nhauzenb.github.io/wps/wp-08/).
 * [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://nhauzenb.github.io/wps/wp-01/).
 
 <b>Presentations at international conferences for disseminating results. </b> 
