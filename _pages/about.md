@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am a Senior Lecturer in the [Department of Economics](https://www.strath.ac.uk/business/economics/) at the University of Strathclyde. 
-My research focuses on developing novel econometric methods for the efficient use of big data in macroeconomics. In particular, I combine modeling techniques from the machine learning and Bayesian learning literature with multivariate time series models that macroeconomists commonly work with (e.g., vector autoregressions). My work has been published in the *Journal of Business & Economic Statistics*, the *Journal of Applied Econometrics*, the *Journal of International Money & Finance* and the *Scandinavian Journal of Economics*, among others.
+
+My research focuses on developing novel econometric methods for the efficient use of big data in macroeconomics. In particular, I combine modeling techniques from the machine learning and Bayesian learning literature with multivariate time series models that macroeconomists commonly work with (e.g., vector autoregressions). My work has been published in the *Journal of Econometrics*, the *Journal of Business & Economic Statistics*, the *Journal of Applied Econometrics*, the *International Journal of Forecasting*,  among others.
   
 I am principal investigator of the project [*“Non-parametric volatility modeling in macroeconomics and finance”*](https://nhauzenb.github.io/portfolio/oenb-1-npvola/) (ID. 18763). The main objective of this project – funded by the Anniversary Fund of the Austrian Central Bank (OeNB) – is to develop techniques that can flexibly handle heteroskedasticity in macroeconomic and financial time series.
 
