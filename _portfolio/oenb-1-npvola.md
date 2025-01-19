@@ -20,17 +20,20 @@ Central Bank (OeNB).
 
 <b>Published papers produced as part of this project.</b> 
 
-* [*Gaussian process VARs and macroeconomic uncertainty*](https://nhauzenb.github.io/publications/2024-01-01-hhmp-jbes/).
-* [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://nhauzenb.github.io/publications/2023-03-01-hhk-snde/).
-* [*Bayesian neural networks for macroeconomic analysis*](https://nhauzenb.github.io/publications/2024-02-01-hhkm-joe/).
+* [*Gaussian process VARs and macroeconomic uncertainty*](https://doi.org/10.1080/07350015.2024.2322089).
+* [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://doi.org/10.1515/snde-2022-0077).
+* [*Bayesian neural networks for macroeconomic analysis*](https://doi.org/10.1016/j.jeconom.2024.105843).
+* [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://doi.org/10.1016/j.ijforecast.2024.09.001).
+* [*Predictive density combination using Bayesian machine learning*](https://doi.org/10.26509/frbc-wp-202330).
+
 
 <b>Working papers completed as part of this project.</b>
 
 * [*Bayesian modelling of VAR precision matrices using stochastic block networks*](https://arxiv.org/abs/2407.16349).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158). 
-* [*Bayesian modeling of TVPs using regression trees*](https://nhauzenb.github.io/wps/wp-03/).
-* [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://nhauzenb.github.io/wps/wp-01/).
+* [*Bayesian modeling of TVP-VARs using regression trees*](https://arxiv.org/abs/2209.11970).
+
 
 <b>Presentations at international conferences for disseminating results. </b> 
 
