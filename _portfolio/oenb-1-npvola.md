@@ -31,11 +31,11 @@ Central Bank (OeNB).
 
 * [*Bayesian modelling of VAR precision matrices using stochastic block networks*](https://arxiv.org/abs/2407.16349).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
-* [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158). 
+* [*High-frequency and heteroskedasticity identification in multicountry models: Revisiting spillovers of monetary shocks*](https://arxiv.org/abs/1912.03158). 
 * [*Bayesian modeling of TVP-VARs using regression trees*](https://arxiv.org/abs/2209.11970).
 
 
-<b>Presentations at international conferences for disseminating results. </b> 
+<b>Presentations by project members at international conferences for disseminating results. </b> 
 
 * [*Stochastic block network vector autoregressions*](https://www.dropbox.com/scl/fi/0fergf0kiybo5x6on8lhy/bvar_sbm.pdf?rlkey=p0ubbc9ewv6h5eibemso7oews&dl=0) presented by Tobias Scheckel at CFE 2023.
 * [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158) presented by Anna Stelzer at ICMAIF 2023.
