@@ -11,7 +11,7 @@ collection: portfolio
 <b>Funding.</b> EUR 232,000.00 from the Anniversary Fund of the Austrian
 Central Bank (OeNB).
 <br> <br>
-<b>Project duration.</b> November 2022 - October 2025.
+<b>Project duration.</b> November 2022 - October 2026.
 <br> <br>
 <b>Summary.</b> During recessionary episodes (such as the global financial crisis or the Covid-19 pandemic) many important macroeconomic and financial quantities experience substantial shifts in the volatility process, while during tranquil periods the shock volatilities remain relatively stable. This project sets forth a research agenda to develop and apply more flexible volatility models for macroeconomic and financial data. These methods will be also useful for practitioners working on emerging market economies. These countries often feature short time series which are subject to several structural breaks. The methods we propose in this project are exactly designed for such situations where time series exhibit substantial shifts in the variance. We will illustrate the models developed in this project through various now- and forecasting applications. Apart from focusing on predictions, our models can be used to produce timely indicators of macroeconomic stability. These indicators can be applied to emerging market economies and implemented such that policy institutions have alternative high frequency measures of the overall state of a given economy.
 </p>
