@@ -33,6 +33,7 @@ Central Bank (OeNB).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*High-frequency and heteroskedasticity identification in multicountry models: Revisiting spillovers of monetary shocks*](https://arxiv.org/abs/1912.03158). 
 * [*Bayesian modeling of TVP-VARs using regression trees*](https://arxiv.org/abs/2209.11970).
+* [*Machine learning the macroeconomic effects of financial shocks.*](https://arxiv.org/abs/2412.07649).
 
 
 <b>Presentations by project members at international conferences for disseminating results. </b> 
