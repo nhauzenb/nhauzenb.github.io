@@ -39,6 +39,7 @@ Central Bank (OeNB).
 
 * [*Stochastic block network vector autoregressions*](https://www.dropbox.com/scl/fi/0fergf0kiybo5x6on8lhy/bvar_sbm.pdf?rlkey=p0ubbc9ewv6h5eibemso7oews&dl=0) presented by Tobias Scheckel at CFE 2023.
 * [*The international effects of central bank information shocks*](https://arxiv.org/abs/1912.03158) presented by Anna Stelzer at ICMAIF 2023.
+* *Nonparametric methods for measuring asymmetries in monetary policy transmission* presented by Anna Stelzer at CFE 2022.
 
 
 
