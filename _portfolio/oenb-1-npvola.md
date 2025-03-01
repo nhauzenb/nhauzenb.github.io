@@ -24,7 +24,7 @@ Central Bank (OeNB).
 * [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://doi.org/10.1515/snde-2022-0077).
 * [*Bayesian neural networks for macroeconomic analysis*](https://doi.org/10.1016/j.jeconom.2024.105843).
 * [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://doi.org/10.1016/j.ijforecast.2024.09.001).
-* [*Predictive density combination using Bayesian machine learning*](https://doi.org/10.26509/frbc-wp-202330).
+* [*Predictive density combination using Bayesian machine learning*](https://doi.org/10.1111/iere.12759).
 
 
 <b>Working papers completed as part of this project.</b>
