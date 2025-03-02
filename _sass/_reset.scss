@@ -8,10 +8,10 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px;
+  font-size: 14px;
 
   @include breakpoint($medium) {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -88,7 +88,7 @@ a:active {
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 68.5%;
   line-height: 0;
   vertical-align: baseline;
 }
@@ -128,7 +128,7 @@ input,
 select,
 textarea {
   margin: 0;
-  font-size: 100%;
+  font-size: 75%;
   vertical-align: middle;
 }
 
