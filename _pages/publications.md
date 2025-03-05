@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 Publications in refereed journals
 ======
 
@@ -16,7 +15,6 @@ Publications in refereed journals
 {% endfor %}
 
 <br>
-<br>
 
 Book chapters
 ======
@@ -24,9 +22,6 @@ Book chapters
 {% for post in site.book reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-<br>
-<br>
 
 Publications in institutional journals
 ======
