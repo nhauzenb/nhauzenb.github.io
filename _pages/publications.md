@@ -14,8 +14,6 @@ Publications in refereed journals
   {% include archive-single.html %}
 {% endfor %}
 
-<br>
-
 Book chapters
 ======
 
