@@ -16,7 +16,7 @@ I am principal investigator of the project [*“Non-parametric volatility modeli
 
 I have actively participated in knowledge exchange, providing scientific consultancy services to the Joint Research Centre (JRC) Ispra of the European Commission, the Austrian Central Bank (OeNB), and the International Institute for Applied Systems Analysis (IIASA). My typical scope of activities in this context is to tailor econometric methods to the needs of policy institutions and central banks.
 
-<br>
+
 
 [CV](https://www.dropbox.com/scl/fi/uyjt4zgux30w6gxwd650s/NH_CV_Oct2024.pdf?rlkey=pzmbpsys8jn31joje6ys1n5b5&st=rkpjvwpi&dl=0)
 ======
