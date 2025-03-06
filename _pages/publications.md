@@ -14,12 +14,16 @@ Publications in refereed journals
   {% include archive-single.html %}
 {% endfor %}
 
+<br>
+
 Book chapters
 ======
 
 {% for post in site.book reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<br>
 
 Publications in institutional journals
 ======
