@@ -14,7 +14,7 @@ Publications in refereed journals
   {% include archive-single.html %}
 {% endfor %}
 
-<br>
+
 
 Book chapters
 ======
@@ -23,7 +23,7 @@ Book chapters
   {% include archive-single.html %}
 {% endfor %}
 
-<br>
+
 
 Publications in institutional journals
 ======
