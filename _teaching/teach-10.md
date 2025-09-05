@@ -10,7 +10,7 @@ coauthors: " (with P. Wu)"
 location: "Edinburgh, UK"
 ---
 
-[**Course website for academic year 2025/26.**](https://github.com/nhauzenb/SGPE-BAYES-ECNM11060)
+[**Course website for academic year 2025/26.**](https://nhauzenb.github.io/SGPE-ECNM11060)
 
 [**Ping's website.**](https://pingwu.org)
 
