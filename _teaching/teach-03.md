@@ -5,7 +5,7 @@ type: "<b> Graduate Programme in Applied Economics </b> course"
 permalink: /teaching/ec988
 venue: "University of Strathclyde"
 excerpt: ""
-semesters: "Fall 2024"
+semesters: "since 2024/25"
 coauthors: " (with P. Wu)"
 location: "Glasgow, UK"
 ---
