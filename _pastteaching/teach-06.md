@@ -5,7 +5,7 @@ type: "<b> Graduate </b> course"
 permalink: /teaching/bayes
 venue: "University of Neuchâtel"
 excerpt: ""
-semesters: "Summer 2021"
+semesters: "2020/21"
 coauthors: " (with F. Huber)"
 location: "online"
 ---
