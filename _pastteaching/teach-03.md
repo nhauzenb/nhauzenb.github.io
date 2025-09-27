@@ -5,7 +5,7 @@ type: "<b> Graduate </b> course"
 permalink: /teaching/mmetrcs
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
-semesters: "Summer 2019"
+semesters: "2018/19"
 coauthors: " (with M. Pfarrhofer and T. O. Zörner)"
 location: "Vienna"
 ---
