@@ -5,7 +5,7 @@ type: "<b> Undergraduate </b> course"
 permalink: /teaching/ec316
 venue: "University of Strathclyde"
 excerpt: ""
-semesters: "Spring 2024, 2025"
+semesters: "2023/24, 2024/25, 2025/26"
 coauthors: " (with S. N. Davidson and P. Wu)"
 location: "Glasgow, UK"
 ---
