@@ -5,7 +5,7 @@ type: "<b> Graduate </b> course"
 permalink: /teaching/strpred
 venue: "University of Salzburg"
 excerpt: ""
-semesters: "Summer 2021, 2023"
+semesters: "2020/21, 2022/23"
 coauthors: " (with M. Pfarrhofer)"
 location: "online"
 ---
