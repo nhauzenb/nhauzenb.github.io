@@ -20,7 +20,7 @@ location: "Glasgow, UK"
 3. Solow model with technological progress
 4. Expectations, consumption, and investment
 5. The Euro
-6. The Great Recession
+6. Covid-19
 7. High debt
 8. Policy and policy makers
 9. Fiscal policy rules
