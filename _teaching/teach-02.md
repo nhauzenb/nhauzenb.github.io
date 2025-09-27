@@ -5,7 +5,7 @@ type: "<b> Undergraduate </b> course"
 permalink: /teaching/ec422
 venue: "University of Strathclyde"
 excerpt: ""
-semesters: "2025/26"
+semesters: "since 2025/26"
 coauthors: " (with D. Velivela)"
 location: "Glasgow, UK"
 ---
