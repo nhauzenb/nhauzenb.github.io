@@ -154,6 +154,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  pastteaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
