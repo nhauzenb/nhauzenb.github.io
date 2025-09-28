@@ -19,6 +19,6 @@ Current teaching activities
 Past teaching activities
 ======
 
-{% for post in site.teaching reversed %}
+{% for post in site.pastteaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
