@@ -53,6 +53,7 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-weight: 400;
   }
 
   p, li, dl {
@@ -73,10 +74,13 @@
   }
 
   a {
+    color: $spc-orange;
     text-decoration: none;
+    transition: color 0.15s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: $spc-orange-dark;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
