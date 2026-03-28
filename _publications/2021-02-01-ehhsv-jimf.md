@@ -1,6 +1,7 @@
 ---
-title: "The impact of macroprudential policies on capital flows in CESEE. [doi](https://doi.org/10.1016/j.jimonfin.2021.102495)"
+title: "The impact of macroprudential policies on capital flows in CESEE."
 collection: publications
+doi: 'https://doi.org/10.1016/j.jimonfin.2021.102495'
 year: '2021'
 excerpt: ''
 coauthors: 'with M. Eller, F. Huber, H. Schuberth, and L. Vashold,'
