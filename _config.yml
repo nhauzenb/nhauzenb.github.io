@@ -86,7 +86,7 @@ author:
   email            : "niko.hauzenberger@strath.ac.uk"
   googlescholar    : "https://scholar.google.com/citations?user=uXtLiLIAAAAJ&hl=de&oi=ao"
   orcid            : "https://orcid.org/0000-0002-2683-8421"
-  linkedin         : 
+  linkedin         : "niko-hauzenberger-0bb3a2233"
   twitter          : 
   github           : "nhauzenb"
   location         : 
@@ -188,7 +188,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -204,7 +204,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -213,7 +213,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _book
   - scope:
@@ -222,7 +222,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _institutional
   - scope:
@@ -231,7 +231,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true  
   # _wps
   - scope:
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true        
   # _portfolio
   - scope:
@@ -249,7 +249,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -258,7 +258,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
