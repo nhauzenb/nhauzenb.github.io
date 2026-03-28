@@ -1,8 +1,6 @@
 # main links links
 main:
-  - title: "Working papers"
-    url: /wps/
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
   - title: "Research grants"
     url: /grants/
