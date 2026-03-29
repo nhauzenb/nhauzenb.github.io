@@ -52,8 +52,21 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.4em;
     border-bottom: none;
+  }
+}
+
+/* border between archive items on publications/research page */
+.page__content {
+  .list__item {
+    border-bottom: 1px solid $border-color;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+
+    &:last-child {
+      border-bottom: none;
+    }
   }
 }
 
