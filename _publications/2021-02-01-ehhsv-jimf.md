@@ -4,7 +4,7 @@ collection: publications
 doi: 'https://doi.org/10.1016/j.jimonfin.2021.102495'
 year: '2021'
 excerpt: ''
-coauthors: 'with M. Eller, F. Huber, H. Schuberth, and L. Vashold,'
+coauthors: 'with M. Eller, F. Huber, H. Schuberth, and L. Vashold'
 journal: 'Journal of International Money & Finance'
 issue: ' 119:102495'
 ---
