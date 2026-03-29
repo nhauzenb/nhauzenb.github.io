@@ -163,29 +163,16 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: $spc-cream;
+  border: 0;
+  background: transparent;
   color: $spc-navy;
-  z-index: -1;
-  box-shadow: 0 2px 12px rgba($spc-navy, 0.1);
+  box-shadow: none;
   cursor: default;
-
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
 
   &:before {
     display: block;
