@@ -39,9 +39,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{{ post.coauthors }}}. </p>
+          <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{ post.coauthors }}. </p>
         {% elsif post.collection == 'pastteaching' %}
-          <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{{ post.coauthors }}}. </p>
+          <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{ post.coauthors }}. </p>
         {% elsif post.collection == 'publications' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
