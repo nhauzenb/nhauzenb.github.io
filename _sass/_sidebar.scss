@@ -118,7 +118,7 @@
 
 .sidebar .author__name {
   font-family: $serif;
-  font-size: $type-size-4;
+  font-size: 1.1em;
   font-weight: 500;
   letter-spacing: 0.01em;
 }
@@ -130,7 +130,7 @@
   @include breakpoint($large) {
     margin-top: 8px;
     margin-bottom: 18px;
-    font-size: $type-size-6;
+    font-size: 0.95em;
     line-height: 1.5;
   }
 }
@@ -232,7 +232,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: $spc-navy;
-    font-size: $type-size-6;
+    font-size: 0.95em;
     text-decoration: none;
     transition: color 0.15s ease;
 
