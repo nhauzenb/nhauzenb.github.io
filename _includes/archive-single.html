@@ -49,7 +49,7 @@
         {% elsif post.collection == 'book' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
-          {% if post.doi %}<a href="{{ post.doi }}" target="_blank">[DOI]</a>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" target="_blank">[Code]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>{% endif %}</p>
+          {% if post.doi %}<a href="{{ post.doi }}" target="_blank">[DOI]</a>{% endif %}{% if post.paperurl %} <a href="{{ post.paperurl }}" target="_blank">[Draft]</a>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" target="_blank">[Code]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>{% endif %}</p>
         {% elsif post.collection == 'wps' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
