@@ -45,7 +45,7 @@
         {% elsif post.collection == 'publications' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
-          {% if post.doi %}<a href="{{ post.doi }}" target="_blank">[DOI]</a>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" target="_blank">[Code]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>{% endif %}</p>
+          {% if post.doi %}<a href="{{ post.doi }}" target="_blank">[DOI]</a>{% endif %}{% if post.ceprdpurl %} <a href="{{ post.ceprdpurl }}" target="_blank">[CEPR DP]</a>{% endif %}{% if post.frbwpurl %} <a href="{{ post.frbwpurl }}" target="_blank">[FRB WP]</a>{% endif %}{% if post.oenbwpurl %} <a href="{{ post.oenbwpurl }}" target="_blank">[OeNB WP]</a>{% endif %}{% if post.suerfurl %} <a href="{{ post.suerfurl }}" target="_blank">[SUERF PB]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" target="_blank">[Code]</a>{% endif %}{% if post.videourl %} <a href="{{ post.videourl }}" target="_blank">[Video]</a>{% endif %}</p>
         {% elsif post.collection == 'book' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
@@ -53,7 +53,7 @@
         {% elsif post.collection == 'wps' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
-          {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank">[WP]</a>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" target="_blank">[Code]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>{% endif %}</p>
+          {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank">[WP]</a>{% endif %}{% if post.arxivurl %} <a href="{{ post.arxivurl }}" target="_blank">[arXiv]</a>{% endif %}{% if post.ssrnurl %} <a href="{{ post.ssrnurl }}" target="_blank">[SSRN]</a>{% endif %}{% if post.irenewpurl %} <a href="{{ post.irenewpurl }}" target="_blank">[IRENE WP]</a>{% endif %}{% if post.frbwpurl %} <a href="{{ post.frbwpurl }}" target="_blank">[FRB WP]</a>{% endif %}{% if post.oenbwpurl %} <a href="{{ post.oenbwpurl }}" target="_blank">[OeNB WP]</a>{% endif %}{% if post.ceprdpurl %} <a href="{{ post.ceprdpurl }}" target="_blank">[CEPR DP]</a>{% endif %}{% if post.suerfurl %} <a href="{{ post.suerfurl }}" target="_blank">[SUERF PB]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>{% endif %}{% if post.codeurl %} <a href="{{ post.codeurl }}" target="_blank">[Code]</a>{% endif %}</p>
         {% elsif post.collection == 'institutional' %}
           <p style="margin:0.15em 0 0;">{{ post.coauthors }}<br>
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>
