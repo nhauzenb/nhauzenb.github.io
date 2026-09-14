@@ -257,3 +257,22 @@
     }
   }
 }
+
+/*
+   Expandable publication titles (see _includes/archive-single.html)
+   ========================================================================== */
+
+.pub-toggle {
+  &::before {
+    content: "\25B8"; /* small right-pointing triangle */
+    display: inline-block;
+    margin-right: 0.4em;
+    font-size: 0.7em;
+    vertical-align: 0.15em;
+    transition: transform 0.15s ease;
+  }
+
+  &.is-open::before {
+    transform: rotate(90deg);
+  }
+}
