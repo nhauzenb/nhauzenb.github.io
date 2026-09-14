@@ -1,17 +1,13 @@
 ---
 title: "Interest rate and exchange rate fluctuations over two centuries."
-excerpt: "with F. Huber, D. Kaufmann (principal investigator), R. Stuart, and C. Tille. Role: co-investigator. Funding: State Secretariat for Economic Affairs (SECO). Project duration: Aug 2020 - Jun 2021."
 collection: portfolio
+role: 'Co-investigator'
+coauthors: 'with F. Huber, D. Kaufmann (principal investigator), R. Stuart, and C. Tille'
+funder: 'State Secretariat for Economic Affairs (SECO)'
+grantid: ''
+amount: ''
+duration: 'August 2020 - June 2021 (completed)'
+excerpt: ''
+articleurl: 'https://nhauzenb.github.io/institutional/2021-01-01-SECO/'
+reporturl: 'https://www.seco.admin.ch/seco/en/home/Publikationen_Dienstleistungen/Publikationen_und_Formulare/Strukturwandel_Wachstum/Wachstum/interest_rates_switzerland_1852-2020.html'
 ---
-<p align="justify"> <b>Principal investigator.</b> D. Kaufmann.
-<br> <br>
-<b>Co-investigators.</b> N. Hauzenberger, F. Huber, R. Stuart, and C. Tille.
-<br> <br>  
-<b>Funding.</b> State Secretariat for Economic Affairs (SECO).
-<br> <br>  
-<b>Project duration.</b> August 2020 - June 2021 (<b>completed</b>).
-</p>
-  
-[**Final article related to this project**](https://nhauzenb.github.io/institutional/2021-01-01-SECO/).
-
-[**Policy report published in in-house journal of State Secretariat for Economic Affairs (SECO)**](https://www.seco.admin.ch/seco/en/home/Publikationen_Dienstleistungen/Publikationen_und_Formulare/Strukturwandel_Wachstum/Wachstum/interest_rates_switzerland_1852-2020.html).
