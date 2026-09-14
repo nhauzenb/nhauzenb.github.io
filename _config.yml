@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Senior Lecturer"
-  bio              : "Department of Economics, Strathclyde Business School, University of Strathclyde"
+  name             : "Niko Hauzenberger"
+  bio              : "Senior Lecturer, Department of Economics, Strathclyde Business School, University of Strathclyde"
   avatar           : "Niko_Hauzenberger_webpage.jpg"
   email            : "niko.hauzenberger@strath.ac.uk"
+  cv               : "https://www.dropbox.com/scl/fi/jr8htvunai3dk7g29e7ti/NH_CV_Jan2026.pdf?rlkey=81sa5fv6n0i1ocpc4pu6abnqo&st=bcxrgfix&dl=0"
   googlescholar    : "https://scholar.google.com/citations?user=uXtLiLIAAAAJ&hl=de&oi=ao"
   orcid            : "https://orcid.org/0000-0002-2683-8421"
   linkedin         : "niko-hauzenberger-0bb3a2233"

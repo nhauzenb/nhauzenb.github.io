@@ -5,5 +5,8 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-631LQW8JH2');
+  // Only report from the live site: forks that keep this file send nothing.
+  if (location.hostname === 'nhauzenb.github.io') {
+    gtag('config', 'G-631LQW8JH2');
+  }
 </script>

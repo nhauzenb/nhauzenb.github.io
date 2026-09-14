@@ -6,6 +6,7 @@ function togglePub(el) {
     var isOpen = content.style.display !== 'none';
     content.style.display = isOpen ? 'none' : 'block';
     el.style.opacity = isOpen ? '1' : '0.75';
+    el.classList.toggle('is-open', !isOpen);
   }
 }
 </script>
