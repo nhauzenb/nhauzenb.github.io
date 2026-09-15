@@ -4,5 +4,7 @@ main:
     url: /publications/
   - title: "Research grants"
     url: /grants/
+  - title: "Policy & impact"
+    url: /impact/
   - title: "Teaching"
     url: /teaching/

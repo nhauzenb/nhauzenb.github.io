@@ -1,0 +1,6 @@
+# Theme tags for the Research page filter. Key -> label.
+bvar: "Bayesian VARs"
+tvp: "Bayesian TVP models"
+bml: "Bayesian ML & nonparametrics"
+forecasting: "Forecasting & nowcasting"
+macro: "Structural inference in macro"

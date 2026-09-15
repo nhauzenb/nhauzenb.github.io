@@ -1,12 +1,14 @@
 ---
 title: "Textual inference for central bank communication."
 collection: portfolio
+start: '2022-07'
+status: 'completed'
 role: 'Co-investigator'
 coauthors: 'with B. Grün and P. Hofmarcher (principal investigator)'
 funder: 'Anniversary Fund of the Austrian Central Bank (OeNB)'
 grantid: '18718'
 amount: 'EUR 240,910.00'
-duration: 'July 2022 - June 2025'
+duration: 'July 2022 - June 2026'
 excerpt: ''
 newsurl: 'https://www.plus.ac.at/news/new-project-analyses-effects-of-communication-of-central-bankers-on-macroeconomic-behavior/?lang=en&pgrp=281990&pg=283628&is_paged=10'
 projecturl: 'https://sites.google.com/view/paulhofmarcher/home/grant'

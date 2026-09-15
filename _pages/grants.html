@@ -1,14 +1,24 @@
 ---
 layout: archive
-title: "Overview of Research Grants"
+title: ""
 permalink: /grants/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<h1>Current research projects</h1>
 
-{% for post in site.portfolio %}
+{% assign current = site.portfolio | where: "status", "current" | sort: "start" | reverse %}
+{% for post in current %}
   {% include archive-single.html %}
 {% endfor %}
 
+<br>
+
+<h1>Completed research projects</h1>
+
+{% assign completed = site.portfolio | where: "status", "completed" | sort: "start" | reverse %}
+{% for post in completed %}
+  {% include archive-single.html %}
+{% endfor %}
