@@ -9,4 +9,26 @@ function togglePub(el) {
     el.classList.toggle('is-open', !isOpen);
   }
 }
+
+/* Theme filter on the Research page */
+document.addEventListener('click', function (e) {
+  var btn = e.target.closest('.pub-filter__btn');
+  if (!btn) return;
+  var theme = btn.getAttribute('data-theme');
+  document.querySelectorAll('.pub-filter__btn').forEach(function (b) { b.classList.toggle('is-active', b === btn); });
+  document.querySelectorAll('.list__item').forEach(function (it) {
+    var ts = (it.getAttribute('data-themes') || '').split(' ');
+    it.style.display = (theme === 'all' || ts.indexOf(theme) > -1) ? '' : 'none';
+  });
+  /* hide section headings whose list is now empty */
+  document.querySelectorAll('.page__content > h1').forEach(function (h) {
+    var el = h.nextElementSibling, visible = false;
+    while (el && el.tagName !== 'H1') {
+      if (el.classList.contains('list__item') && el.style.display !== 'none') { visible = true; break; }
+      el = el.nextElementSibling;
+    }
+    h.style.display = visible ? '' : 'none';
+    var br = h.previousElementSibling; if (br && br.tagName === 'BR') br.style.display = visible ? '' : 'none';
+  });
+});
 </script>

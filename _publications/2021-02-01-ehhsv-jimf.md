@@ -1,5 +1,6 @@
 ---
 title: "The impact of macroprudential policies on capital flows in CESEE."
+themes: [macro]
 collection: publications
 doi: 'https://doi.org/10.1016/j.jimonfin.2021.102495'
 year: '2021'
