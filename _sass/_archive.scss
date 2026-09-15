@@ -276,3 +276,50 @@
     transform: rotate(90deg);
   }
 }
+
+/*
+   Theme filter and tags on the Research page
+   ========================================================================== */
+
+.pub-filter {
+  margin: 0 0 1.5em;
+  font-family: $sans-serif;
+  font-size: 0.8em;
+
+  &__label {
+    margin-right: 0.5em;
+    color: $gray;
+  }
+
+  &__btn {
+    margin: 0 0.35em 0.35em 0;
+    padding: 0.25em 0.8em;
+    border: 1px solid $border-color;
+    border-radius: 999px;
+    background: transparent;
+    color: $text-color;
+    font: inherit;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+    &:hover { border-color: $link-color; color: $link-color; }
+    &.is-active { background: $link-color; border-color: $link-color; color: #fff; }
+  }
+}
+
+.pub-tags {
+  margin-left: 0.5em;
+  white-space: nowrap;
+}
+
+.pub-tag {
+  display: inline-block;
+  margin-right: 0.3em;
+  padding: 0.05em 0.5em;
+  border-radius: 999px;
+  background: $border-color;
+  color: $gray;
+  font-family: $sans-serif;
+  font-size: 0.7em;
+  vertical-align: 0.1em;
+}
