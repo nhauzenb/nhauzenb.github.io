@@ -1,12 +1,12 @@
 ---
 title: "Bayesian econometrics."
 collection: teaching
-type: "<b> Graduate </b> course"
+type: 'Graduate course'
 permalink: /teaching/bayes
 venue: "University of Neuchâtel"
 excerpt: ""
 semesters: "2020/21"
-coauthors: " (with F. Huber)"
+coauthors: 'with F. Huber'
 location: "online"
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Mathematical foundations."
 collection: teaching
-type: "<b>Undergraduate</b> course"
+type: 'Undergraduate course'
 permalink: /teaching/math
 venue: "University of Salzburg"
 excerpt: ""
 semesters: "2020/21, 2021/22, 2022/23"
-coauthors: 
+coauthors: ''
 location: "Salzburg"
 ---
 

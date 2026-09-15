@@ -2,7 +2,7 @@
 title: "Central Banks' inflation gamble: Good luck vs. good models."
 collection: portfolio
 start: '2025-10'
-status: 'current'
+status: 'studentship'
 role: 'Principal investigator and first supervisor'
 coauthors: 'with G. Koop and S. McIntyre; PhD student: Petra Gresó'
 funder: 'Research Excellence Award (REA), Strathclyde Research Studentship Scheme (SRSS), University of Strathclyde'

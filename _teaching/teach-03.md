@@ -1,17 +1,15 @@
 ---
 title: "Data Analytics I: Essentials in Economics and Finance (EC988)."
 collection: teaching
-type: "<b> Graduate Programme in Applied Economics </b> course"
+type: 'Graduate course, Graduate Programme in Applied Economics'
 permalink: /teaching/ec988
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "since 2024/25"
-coauthors: " (with P. Wu)"
+coauthors: 'with <a href="https://pingwu.org" target="_blank">P. Wu</a>'
 location: "Glasgow, UK"
 ---
 
-
-[**Ping's website.**](https://pingwu.org)
 
 ### Overview.
 <p align="justify"> This module primarily focuses on analysing and modeling macroeconomic and financial time series. It is intended to provide students with a comprehensive introduction to time series and the application of basic time series econometrics in macroeconomics and finance. This is achieved through consideration of such topics as the introduction to univariate and multivariate time series modeling, local projections, vector autoregression, and factor models. The module will provide the necessary basic knowledge and fundamental tools for modeling time series, which can be used to conduct individual structural policy as well as scenario analysis in macroeconomics and finance. 

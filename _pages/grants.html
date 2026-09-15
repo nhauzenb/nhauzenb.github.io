@@ -9,8 +9,17 @@ author_profile: true
 
 <h1>Current research projects</h1>
 
-{% assign current = site.portfolio | where: "status", "current" | sort: "start" | reverse %}
+{% assign current = site.portfolio | where: "status", "current" | sort: "start" %}
 {% for post in current %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br>
+
+<h1>PhD studentships</h1>
+
+{% assign studentships = site.portfolio | where: "status", "studentship" | sort: "start" | reverse %}
+{% for post in studentships %}
   {% include archive-single.html %}
 {% endfor %}
 

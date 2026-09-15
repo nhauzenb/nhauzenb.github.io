@@ -1,12 +1,12 @@
 ---
 title: "Macroeconometrics: structural and predictive inference."
 collection: teaching
-type: "<b> Graduate </b> course"
+type: 'Graduate course'
 permalink: /teaching/strpred
 venue: "University of Salzburg"
 excerpt: ""
 semesters: "2020/21, 2022/23"
-coauthors: " (with M. Pfarrhofer)"
+coauthors: 'with M. Pfarrhofer'
 location: "online"
 ---
 

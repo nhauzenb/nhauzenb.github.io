@@ -24,9 +24,8 @@ Knowledge exchange and advisory roles
 ======
 
 * **Joint Research Centre (JRC) of the European Commission, Ispra** — knowledge exchange with the Macro Modelling and Nowcasting Team, Financial and Economic Analysis Unit (since 2022). Related work: [regional nowcasting]({{ base_path }}/publications/2025-04-01-bfhhhopp/) and [climate news shocks]({{ base_path }}/wps/wp-04/).
-* **Scottish public sector** — [*Transforming forecasting capacity in government*]({{ base_path }}/grants/), ESRC Impact Acceleration Account project with G. Koop, S. McIntyre, and P. Wu (2024–25).
 * **International Institute for Applied Systems Analysis (IIASA), Laxenburg** — Research Scholar, Integrated Biosphere Futures group (2020–21); [research visit of T. Krisztin to Strathclyde]({{ base_path }}/grants/) (2025); research visit to IIASA (June 2026, [RSE Research Collaboration Grant]({{ base_path }}/grants/)).
-* **Austrian Central Bank (OeNB), Foreign Research Division** — consultant (2018–21) and research assistant (2018). Related work: [TVP models for forecasting growth in CESEE]({{ base_path }}/institutional/2020-01-01_FEEI/) and the [OeNB-funded projects]({{ base_path }}/grants/).
+* **Austrian Central Bank (OeNB)** — consultant (2018–21) and research assistant (2018). Related work: [TVP models for forecasting growth in CESEE]({{ base_path }}/institutional/2020-01-01_FEEI/) and [The impact of macroprudential policies on capital flows in CESEE]({{ base_path }}/publications/2021-02-01-ehhsv-jimf/).
 
 <br>
 

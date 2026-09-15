@@ -1,12 +1,12 @@
 ---
-title: " Analysis of economic data (EC951, EC975)."
+title: "Analysis of economic data (EC951, EC975)."
 collection: teaching
-type: "<b> Graduate Programme in Applied Economics </b> course"
+type: 'Graduate course, Graduate Programme in Applied Economics'
 permalink: /teaching/ec951
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "2023/24, 2024/25"
-coauthors: " (with A. Romiti and L. McInally)"
+coauthors: 'with A. Romiti and L. McInally'
 location: "Glasgow, UK"
 ---
 

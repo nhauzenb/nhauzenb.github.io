@@ -1,12 +1,12 @@
 ---
 title: "Advanced macroeconometrics."
 collection: teaching
-type: "<b> Graduate </b> course"
+type: 'Graduate course'
 permalink: /teaching/mmetrcs
 venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
 semesters: "2018/19"
-coauthors: " (with M. Pfarrhofer and T. O. Zörner)"
+coauthors: 'with M. Pfarrhofer and T. O. Zörner'
 location: "Vienna"
 ---
 

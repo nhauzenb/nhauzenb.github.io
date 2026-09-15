@@ -1,12 +1,12 @@
 ---
 title: "Quantitative methods in economics."
 collection: teaching
-type: "<b> Graduate </b> course"
+type: 'Graduate course'
 permalink: /teaching/qm
 venue: "University of Salzburg"
 excerpt: ""
 semesters: "2019/20, 2020/21, 2021/22, 2022/23"
-coauthors: " (with K. Nowotny and H. Winner)"
+coauthors: 'with K. Nowotny and H. Winner'
 location: "Salzburg"
 ---
 

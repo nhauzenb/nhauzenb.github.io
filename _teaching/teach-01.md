@@ -1,12 +1,12 @@
 ---
 title: "Topics in macroeconomics with time series econometrics (EC316)."
 collection: teaching
-type: "<b> Undergraduate </b> course"
+type: 'Undergraduate course'
 permalink: /teaching/ec316
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "since 2023/24"
-coauthors: " (with S. N. Davidson and P. Wu)"
+coauthors: 'with S. N. Davidson and P. Wu'
 location: "Glasgow, UK"
 ---
 

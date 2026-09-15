@@ -7,7 +7,7 @@ role: 'Co-investigator'
 coauthors: 'with G. Koop, S. McIntyre (principal investigator), and P. Wu'
 funder: 'ESRC Impact Acceleration Account, University of Strathclyde'
 grantid: ''
-amount: 'GBP 31,828.00'
+amount: 'GBP 16,068.00'
 duration: 'August 2024 - August 2025'
 excerpt: ''
 ---

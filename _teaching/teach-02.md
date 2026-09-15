@@ -1,12 +1,12 @@
 ---
 title: "Advanced macroeconomics (EC422)."
 collection: teaching
-type: "<b> Undergraduate </b> course"
+type: 'Undergraduate course'
 permalink: /teaching/ec422
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "since 2025/26"
-coauthors: " (with D. Velivela)"
+coauthors: 'with D. Velivela'
 location: "Glasgow, UK"
 ---
 
