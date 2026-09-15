@@ -30,7 +30,7 @@
       {% assign body_text = post.content | strip_html | strip %}
       {% if post.collection == 'portfolio' and body_text == '' %}
         {{ title }}
-      {% elsif post.collection == 'publications' or post.collection == 'wps' or post.collection == 'book' or post.collection == 'institutional' or post.collection == 'portfolio' %}
+      {% elsif post.collection == 'publications' or post.collection == 'wps' or post.collection == 'book' or post.collection == 'institutional' or post.collection == 'portfolio' or post.collection == 'teaching' or post.collection == 'pastteaching' %}
         <a href="#" class="pub-toggle" onclick="togglePub(this); return false;" style="cursor:pointer;">{{ title }}</a>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -43,10 +43,11 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{ post.coauthors }}. </p>
-        {% elsif post.collection == 'pastteaching' %}
-          <p> {{ post.type }}; <i>{{ post.venue }}</i>;  {{ post.semesters }}{{ post.coauthors }}. </p>
+        {% if post.collection == 'teaching' or post.collection == 'pastteaching' %}
+          <p style="margin:0.15em 0 0;">{{ post.type }}, <i>{{ post.venue }}</i><br>
+          {{ post.semesters }}{% if post.coauthors and post.coauthors != '' %}, {{ post.coauthors }}{% endif %}.{% if post.courseurl %}<br>
+          <a href="{{ post.courseurl }}" target="_blank">[Course page]</a>{% endif %}</p>
+          <div class="pub-content" style="display:none; margin-top:0.5em;">{{ post.content }}</div>
         {% elsif post.collection == 'publications' %}
           <p style="margin:0.15em 0 0;">{% if post.coauthors and post.coauthors != '' %}{{ post.coauthors }}<br>{% endif %}
           <i>{{ post.journal }}</i>{{ post.issue }}, {{ post.year }}.<br>

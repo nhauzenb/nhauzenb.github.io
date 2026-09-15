@@ -38,6 +38,10 @@ layout: default
           <p> {{ page.type }}; <i>{{ page.venue }}</i>; {{ page.semesters }}{{ page.coauthors }}. </p>
         {% elsif page.collection == 'pastteaching' %}
           <p> {{ page.type }}; <i>{{ page.venue }}</i>; {{ page.semesters }}{{ page.coauthors }}. </p>
+        {% elsif page.collection == 'portfolio' %}
+          <p style="margin:0.15em 0 0;">{{ page.role }}{% if page.coauthors and page.coauthors != '' %}, {{ page.coauthors }}{% endif %}<br>
+          <i>{{ page.funder }}</i>{% if page.grantid and page.grantid != '' %} {{ page.grantid }}{% endif %}{% if page.amount and page.amount != '' %}, {{ page.amount }}{% endif %}, {{ page.duration }}.<br>
+          {% if page.newsurl %}<a href="{{ page.newsurl }}" target="_blank">[News]</a>{% endif %}{% if page.projecturl and page.projecturl contains page.url %}{% elsif page.projecturl %} <a href="{{ page.projecturl }}" target="_blank">[Project page]</a>{% endif %}{% if page.articleurl %} <a href="{{ page.articleurl }}" target="_blank">[Article]</a>{% endif %}{% if page.reporturl %} <a href="{{ page.reporturl }}" target="_blank">[Policy report]</a>{% endif %}</p>
         {% elsif page.journal and page.year %}
           <p> {{ page.coauthors }} <i>{{ page.journal }}</i>{{ page.issue }}, {{ page.year }}. </p>
         {% endif %}
