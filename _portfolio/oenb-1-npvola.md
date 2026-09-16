@@ -44,5 +44,5 @@ newsurl: 'https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-pa
 
 <b>Posters presented by project members at international conferences.</b>
 
-* [*A Bayesian Gaussian process dynamic factor model*](https://arxiv.org/abs/2509.04928) presented by Niko Hauzenberger at ESOBE 2026 (Rome).
-* [*When risk rises: Geopolitical risk and the transmission of global shocks*](https://www.dropbox.com/scl/fi/l257mwjkhbg30bua0fyo9/JF_poster_lancaster_geopolitical.pdf?rlkey=qvdjzxqmtvqssgcyktlnmzn5d&dl=0) presented by Aikaterini Deligianni at Lancaster University, 2026.
+* [*A Bayesian Gaussian process dynamic factor model*](https://www.dropbox.com/scl/fi/eatqo6qiqzeqdp0pxb0fi/GP-DFM-poster-print.pdf?rlkey=pvs55ib5nb67azcpojfm8sbbx&st=qf5hqr7a&dl=0) 
+* [*When risk rises: Geopolitical risk and the transmission of global shocks*](https://www.dropbox.com/scl/fi/l257mwjkhbg30bua0fyo9/JF_poster_lancaster_geopolitical.pdf?rlkey=qvdjzxqmtvqssgcyktlnmzn5d&dl=0) 
