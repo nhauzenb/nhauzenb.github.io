@@ -2,7 +2,7 @@
 title: "How to keep the economy dancing when the music stops: System-integrated policymaking in times of global disruptions."
 collection: portfolio
 start: '2026-03'
-status: 'current'
+status: 'completed'
 role: 'Principal investigator'
 coauthors: 'with G. Figus'
 funder: 'Research Collaboration Grant, Royal Society of Edinburgh'

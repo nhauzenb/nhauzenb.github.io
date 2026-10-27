@@ -2,7 +2,7 @@
 title: "Non-parametric volatility modeling in macroeconomics and finance."
 collection: portfolio
 start: '2022-11'
-status: 'current'
+status: 'completed'
 role: 'Principal investigator'
 coauthors: ''
 funder: 'Anniversary Fund of the Austrian Central Bank (OeNB)'
@@ -28,7 +28,7 @@ newsurl: 'https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-pa
 
 <b>Working papers completed as part of this project.</b>
 
-* [*Bayesian modeling of TVP-VARs using regression trees*](https://arxiv.org/abs/2209.11970) (conditionally accepted, <i>Annals of Applied Statistics</i>).
+* [*Bayesian modeling of time-varying parameter vector autoregressions using regression trees*](https://doi.org/10.1214/26-AOAS2217) (<i>Annals of Applied Statistics</i>, 2026).
 * [*Bayesian modelling of VAR precision matrices using stochastic block networks*](https://arxiv.org/abs/2407.16349).
 * [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 * [*Coarsened Bayesian VARs: Correcting BVARs for incorrect specification*](https://doi.org/10.48550/arXiv.2304.07856).
