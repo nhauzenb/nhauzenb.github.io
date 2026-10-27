@@ -7,16 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Current research projects</h1>
-
-{% assign current = site.portfolio | where: "status", "current" | sort: "start" %}
-{% for post in current %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<br>
-
-<h1>PhD studentships</h1>
+<h1>Current PhD studentships</h1>
 
 {% assign studentships = site.portfolio | where: "status", "studentship" | sort: "start" | reverse %}
 {% for post in studentships %}
