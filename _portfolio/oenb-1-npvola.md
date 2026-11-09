@@ -19,22 +19,22 @@ newsurl: 'https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-pa
 
 <b>Published papers produced as part of this project.</b>
 
-* [*Gaussian process VARs and macroeconomic uncertainty*](https://doi.org/10.1080/07350015.2024.2322089) (<i>Journal of Business & Economic Statistics</i>, 2025).
-* [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://doi.org/10.1515/snde-2022-0077) (<i>Studies in Nonlinear Dynamics & Econometrics</i>, 2024).
+* [*Bayesian modeling of time-varying parameter vector autoregressions using regression trees*](https://doi.org/10.1214/26-AOAS2217) (<i>Annals of Applied Statistics</i>, 2026).
 * [*Bayesian neural networks for macroeconomic analysis*](https://doi.org/10.1016/j.jeconom.2024.105843) (<i>Journal of Econometrics</i>, 2025).
-* [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://doi.org/10.1016/j.ijforecast.2024.09.001) (<i>International Journal of Forecasting</i>, 2025).
-* [*Predictive density combination using Bayesian machine learning*](https://doi.org/10.1111/iere.12759) (<i>International Economic Review</i>, 2025).
+* [*Gaussian process VARs and macroeconomic uncertainty*](https://doi.org/10.1080/07350015.2024.2322089) (<i>Journal of Business & Economic Statistics</i>, 2025).
 * [*High-frequency and heteroskedasticity identification in multicountry models: Revisiting spillovers of monetary shocks*](https://doi.org/10.1017/S136510052510031X) (<i>Macroeconomic Dynamics</i>, 2025).
 * [*Machine learning the macroeconomic effects of financial shocks*](https://doi.org/10.1016/j.econlet.2025.112260) (<i>Economics Letters</i>, 2025).
-* [*Bayesian modeling of time-varying parameter vector autoregressions using regression trees*](https://doi.org/10.1214/26-AOAS2217) (<i>Annals of Applied Statistics</i>, 2026).
+* [*Predictive density combination using Bayesian machine learning*](https://doi.org/10.1111/iere.12759) (<i>International Economic Review</i>, 2025).
+* [*Sparse time-varying parameter VECMs with an application to modeling electricity prices*](https://doi.org/10.1016/j.ijforecast.2024.09.001) (<i>International Journal of Forecasting</i>, 2025).
+* [*Dynamic shrinkage priors for large TVP regressions using scalable MCMC methods*](https://doi.org/10.1515/snde-2022-0077) (<i>Studies in Nonlinear Dynamics & Econometrics</i>, 2024).
 
 <b>Working papers completed as part of this project.</b>
 
-* [*Bayesian modelling of VAR precision matrices using stochastic block networks*](https://arxiv.org/abs/2407.16349).
-* [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
-* [*Coarsened Bayesian VARs: Correcting BVARs for incorrect specification*](https://doi.org/10.48550/arXiv.2304.07856).
 * [*A Bayesian Gaussian process dynamic factor model*](https://arxiv.org/abs/2509.04928).
+* [*Bayesian modelling of VAR precision matrices using stochastic block networks*](https://arxiv.org/abs/2407.16349).
+* [*Coarsened Bayesian VARs: Correcting BVARs for incorrect specification*](https://doi.org/10.48550/arXiv.2304.07856).
 * [*Direct Gaussian process predictive regressions with mixed frequency data*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6327918).
+* [*Monetary policy and the joint distribution of income and wealth: The heterogeneous case of the euro area*](https://arxiv.org/abs/2304.14264).
 
 <b>Presentations by project members at international conferences for disseminating results.</b>
 
@@ -48,9 +48,8 @@ newsurl: 'https://www.plus.ac.at/news/oesterreichische-nationalbank-funds-non-pa
 * [*A Bayesian Gaussian process dynamic factor model*](https://www.dropbox.com/scl/fi/eatqo6qiqzeqdp0pxb0fi/GP-DFM-poster-print.pdf?rlkey=pvs55ib5nb67azcpojfm8sbbx&st=qf5hqr7a&dl=0) 
 * [*When risk rises: Geopolitical risk and the transmission of global shocks*](https://www.dropbox.com/scl/fi/l257mwjkhbg30bua0fyo9/JF_poster_lancaster_geopolitical.pdf?rlkey=qvdjzxqmtvqssgcyktlnmzn5d&dl=0) 
 
-<b>Final project workshop (PhD/ECR workshop, October 2026).</b>
+<b>Final project workshop (PhD/ECR workshop, October 2026).</b> The workshop agenda is available [here](https://www.dropbox.com/scl/fi/opvp0kqsxofg4lk8xrq2v/ECR-PhD-WS_18763.pdf?rlkey=jn19d40oco3tcpw988heqbcju&st=vdocsgy0&dl=0). Presentations related to the project:
 
-* [*Workshop agenda*](https://www.dropbox.com/scl/fi/opvp0kqsxofg4lk8xrq2v/ECR-PhD-WS_18763.pdf?rlkey=jn19d40oco3tcpw988heqbcju&st=vdocsgy0&dl=0)
 * [*Bottom-up Bayesian predictive synthesis for euro area inflation*](https://www.dropbox.com/scl/fi/ugufa3pqcx08rznwt9hrx/20261023_PhD_ECR_workshop_Greso.pdf?rlkey=ci5p686wfdfs51to94kkb8ik7&st=cy60tegg&dl=0)
 * [*Robust Bayesian VARs through power posteriors*](https://www.dropbox.com/scl/fi/kn4box65s3d9cx0xe7fh5/pBVAR_talk.pdf?rlkey=q3f8lrttu2ymw5s1ly8ahuggi&st=ry4pnu5n&dl=0)
 * [*When risk rises: Geopolitical risk and the transmission of global shocks*](https://www.dropbox.com/scl/fi/y425n4j826lkird6ms2vr/when_risk_rises_slides.pdf?rlkey=d603eayfakm3mzahys28jk9ty&st=jxt8uw37&dl=0)
