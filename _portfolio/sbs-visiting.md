@@ -2,6 +2,7 @@
 title: "Research visit of Tamás Krisztin (IIASA)."
 collection: portfolio
 start: '2025-06'
+end: '2025-06'
 status: 'completed'
 role: 'Principal investigator'
 coauthors: 'with G. Figus'

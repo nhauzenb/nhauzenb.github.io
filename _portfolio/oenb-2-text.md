@@ -2,6 +2,7 @@
 title: "Textual inference for central bank communication."
 collection: portfolio
 start: '2022-07'
+end: '2026-06'
 status: 'completed'
 role: 'Co-investigator'
 coauthors: 'with B. Grün and P. Hofmarcher (principal investigator)'

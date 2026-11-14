@@ -2,6 +2,7 @@
 title: "Central Banks' inflation gamble: Good luck vs. good models."
 collection: portfolio
 start: '2025-10'
+end: '2028-09'
 status: 'studentship'
 role: 'Principal investigator and first supervisor'
 coauthors: 'with G. Koop and S. McIntyre; PhD student: Petra Gresó'

@@ -2,6 +2,7 @@
 title: "Addressing the economic data crisis: Bayesian statistical learning for real-time forecasting and decision support."
 collection: portfolio
 start: '2026-10'
+end: '2029-09'
 status: 'studentship'
 role: 'Principal investigator and first supervisor'
 coauthors: 'with C. Bueno Macedo Medeiros and G. Koop; PhD student: Thiago Da Cruz Alves Santos'

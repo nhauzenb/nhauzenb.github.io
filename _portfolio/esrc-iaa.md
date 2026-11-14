@@ -2,6 +2,7 @@
 title: "Transforming forecasting capacity in government."
 collection: portfolio
 start: '2024-08'
+end: '2025-08'
 status: 'completed'
 role: 'Co-investigator'
 coauthors: 'with G. Koop, S. McIntyre (principal investigator), and P. Wu'
