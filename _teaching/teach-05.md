@@ -1,12 +1,14 @@
 ---
 title: "Advanced time series econometrics (ECNM11049)."
 collection: teaching
+group: 'sgpe'
+order: 2
 type: 'Graduate course, Scottish Graduate Programme in Economics'
 permalink: /teaching/sgpe1
 venue: "University of Edinburgh"
 excerpt: ""
 semesters: "since 2023/24"
-coauthors: 'with <a href="https://pingwu.org" target="_blank">P. Wu</a>'
+coauthors: 'with P. Wu'
 courseurl: 'https://nhauzenb.github.io/SGPE-ECNM11049/'
 location: "Edinburgh, UK"
 ---

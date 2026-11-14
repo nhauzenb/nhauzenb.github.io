@@ -1,6 +1,8 @@
 ---
 title: "Advanced macroeconomics (EC422)."
 collection: teaching
+group: 'strath'
+order: 7
 type: 'Undergraduate course'
 permalink: /teaching/ec422
 venue: "University of Strathclyde"

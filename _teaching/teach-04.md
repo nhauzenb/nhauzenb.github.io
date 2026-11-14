@@ -1,12 +1,14 @@
 ---
-title: "Data Analytics II: Advances in Economics and Finance (EC989)."
+title: "Data analytics II: Advances in economics and finance (EC989)."
 collection: teaching
-type: 'Graduate course, Graduate Programme in Applied Economics'
+group: 'edsai'
+order: 4
+type: 'Graduate course, MSc in Economics, Data Science and AI and MSc in Applied Economics'
 permalink: /teaching/ec989
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "since 2024/25"
-coauthors: 'with <a href="https://pingwu.org" target="_blank">P. Wu</a> and <a href="https://sites.google.com/view/luigigifuni/home" target="_blank">L. Gifuni</a>'
+coauthors: 'with P. Wu and L. Gifuni'
 location: "Glasgow, UK"
 ---
 

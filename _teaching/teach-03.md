@@ -1,12 +1,14 @@
 ---
-title: "Data Analytics I: Essentials in Economics and Finance (EC988)."
+title: "Data analytics I: Essentials in economics and finance (EC988)."
 collection: teaching
-type: 'Graduate course, Graduate Programme in Applied Economics'
+group: 'edsai'
+order: 5
+type: 'Graduate course, MSc in Economics, Data Science and AI and MSc in Applied Economics'
 permalink: /teaching/ec988
 venue: "University of Strathclyde"
 excerpt: ""
 semesters: "since 2024/25"
-coauthors: 'with <a href="https://pingwu.org" target="_blank">P. Wu</a>'
+coauthors: 'with P. Wu'
 location: "Glasgow, UK"
 ---
 

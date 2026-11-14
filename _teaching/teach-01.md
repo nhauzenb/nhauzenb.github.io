@@ -1,6 +1,8 @@
 ---
 title: "Topics in macroeconomics with time series econometrics (EC316)."
 collection: teaching
+group: 'strath'
+order: 8
 type: 'Undergraduate course'
 permalink: /teaching/ec316
 venue: "University of Strathclyde"
