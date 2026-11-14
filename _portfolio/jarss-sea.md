@@ -8,7 +8,7 @@ role: 'Principal investigator and first supervisor'
 coauthors: 'with C. Bueno Macedo Medeiros and G. Koop; PhD student: Thiago Da Cruz Alves Santos'
 funder: 'Student Excellence Award (SEA), John Anderson Research Studentship Scheme (JARSS), University of Strathclyde'
 grantid: ''
-amount: 'GBP 148,160.00'
+amount: 'internally allocated studentship worth GBP 148,160.00'
 duration: 'October 2026 - September 2029'
 excerpt: ''
 ---
