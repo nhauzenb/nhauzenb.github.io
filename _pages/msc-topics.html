@@ -1,0 +1,54 @@
+---
+layout: archive
+title: "MSc dissertation topics (2026/27)"
+permalink: /msc-topics/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p align="justify">I am happy to supervise MSc summer projects in the field of empirical macroeconomics and econometrics. Below I outline four themes. The first two focus on structural shock identification in macroeconomics, while the third and fourth centre on macroeconomic reduced-form modelling and forecasting. These topics all require a basic understanding of econometrics as well as some experience with statistical software (e.g., <b>R</b>).</p>
+
+<p align="justify"><b>Format of the summer project.</b> I am happy to supervise both options. <b>Option A</b>, the academic-style dissertation (up to 10,000 words), is the classic MSc thesis and likely the better choice if you want to write an academic piece and aim for a research position after our MSc (e.g., a PhD). But I also encourage you to do <b>Option B</b>, in particular if you aim for a position in industry or at a policy institution, and especially now that AI tools are widely available. Here the written report is shorter (5,000–6,000 words), but it includes two additional pieces of assessment for a non-technical audience (e.g., slides, a policy brief, a poster, or a video). Be creative and innovative! For example, we have not studied Shiny apps in <b>R</b>, but you could ask AI to implement the technicalities for you. That is, once you have ensured that your code (e.g., a VAR) runs, let AI set up a Shiny app for you. In this case, carefully document your workflow and prompts as a skill or Markdown (.md) file.</p>
+
+{% for post in site.supervision %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br>
+
+<h1 id="shocks">Structural shock identification: readings and data</h1>
+
+<p align="justify">External instruments are increasingly used to first identify a specific structural macroeconomic shock and then assess how this shock propagates through the macroeconomy. The following readings provide a broad overview of structural shock identification in macroeconomics:</p>
+
+<ul>
+  <li>Ramey, V. A. (2016). Macroeconomic shocks and their propagation. <i>Handbook of Macroeconomics</i>, <b>2</b>, 71–162. <a href="https://doi.org/10.1016/bs.hesmac.2016.03.003">[DOI]</a></li>
+  <li>Nakamura, E. &amp; Steinsson, J. (2018). Identification in macroeconomics. <i>Journal of Economic Perspectives</i>, <b>32</b>(3), 59–86. <a href="https://aeaweb.org/articles?id=10.1257/jep.32.3.59">[DOI]</a></li>
+</ul>
+
+<p><b>Available shock series and instruments.</b> A harmonised and up-to-date <a href="https://github.com/jonathanjadams/structuralshocks">collection of structural macroeconomic shocks</a> (for use as instruments) is a good starting point.</p>
+
+<p><i>Monetary policy:</i></p>
+<ul>
+  <li>Altavilla, C., Brugnolini, L., Gürkaynak, R. S., Motto, R., &amp; Ragusa, G. (2019). Measuring euro area monetary policy. <i>Journal of Monetary Economics</i>, <b>108</b>, 162–179. <a href="https://doi.org/10.1016/j.jmoneco.2019.08.016">[DOI]</a> <a href="https://www.ecb.europa.eu/pub/pdf/annex/Dataset_EA-MPD.xlsx">[EA-MPD database]</a></li>
+  <li>Braun, R., Miranda-Agrippino, S., &amp; Saha, T. (2025). Measuring monetary policy in the UK: The UK monetary policy event-study database. <i>Journal of Monetary Economics</i>, <b>149</b>, 103645. <a href="https://doi.org/10.1016/j.jmoneco.2024.103645">[DOI]</a> <a href="https://r-a-braun.github.io">[UK-MPD database]</a></li>
+  <li>Jarociński, M. (2024). Estimating the Fed’s unconventional policy shocks. <i>Journal of Monetary Economics</i>, <b>144</b>, 103548. <a href="https://doi.org/10.1016/j.jmoneco.2024.01.001">[DOI]</a> <a href="https://marekjarocinski.github.io">[MP shocks]</a></li>
+</ul>
+
+<p><i>Energy:</i></p>
+<ul>
+  <li>Känzig, D. R. (2021). The macroeconomic effects of oil supply news: Evidence from OPEC announcements. <i>American Economic Review</i>, <b>111</b>(4), 1092–1125. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20190964">[DOI]</a> <a href="https://github.com/dkaenzig/oilsupplynews">[Oil supply surprises and news shocks]</a></li>
+  <li>Alessandri, P. &amp; Gazzani, A. (2025). Natural gas and the macroeconomy: Not all energy shocks are alike. <i>Journal of Monetary Economics</i>, <b>151</b>, 103749. <a href="https://doi.org/10.1016/j.jmoneco.2025.103749">[DOI]</a> <a href="https://sites.google.com/site/aggazzani/research">[Gas supply shocks]</a></li>
+</ul>
+
+<p><i>Climate policy:</i></p>
+<ul>
+  <li>Känzig, D. R. (2026). The unequal economic consequences of carbon pricing. <i>American Economic Review</i>, <b>116</b>(11), 4003–4040. <a href="https://dkaenzig.github.io/diegokaenzig.com/Papers/kaenzig_jmp_unequal_consequences_carbon_pricing.pdf">[Paper]</a> <a href="https://github.com/dkaenzig/carbonpolicyshocks">[Carbon policy surprises and shocks]</a></li>
+</ul>
+
+<p><i>Weather and climate:</i></p>
+<ul>
+  <li>Dell, M., Jones, B. F., &amp; Olken, B. A. (2012). Temperature shocks and economic growth: Evidence from the last half century. <i>American Economic Journal: Macroeconomics</i>, <b>4</b>(3), 66–95. <a href="https://www.aeaweb.org/articles?id=10.1257/mac.4.3.66">[DOI]</a> <a href="https://www.kellogg.northwestern.edu/faculty/jones-ben/htm/research.htm">[Data]</a></li>
+  <li>Ciccarelli, M., Kuik, F., &amp; Martínez Hernández, C. (2024). The asymmetric effects of temperature shocks on inflation in the largest euro area countries. <i>European Economic Review</i>, <b>168</b>, 104805. <a href="https://doi.org/10.1016/j.euroecorev.2024.104805">[DOI]</a> <a href="https://www.ipcc.ch">[Climate data]</a></li>
+  <li>Kim, H. S., Matthes, C., &amp; Phan, T. (2025). Severe weather and the macroeconomy. <i>American Economic Journal: Macroeconomics</i>, <b>17</b>(2), 315–341. <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20220329">[DOI]</a> <a href="https://actuariesclimateindex.org/home/">[Climate data]</a></li>
+</ul>
