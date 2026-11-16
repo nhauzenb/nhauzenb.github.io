@@ -15,9 +15,9 @@ location: ""
 </p>
 
 ### VoxEU columns.
-* [What we know about climate change and inflation](https://cepr.org/voxeu/columns/what-we-know-about-climate-change-and-inflation)
-* [Global weather disruptions, food commodity prices, and economic activity: A global warning](https://cepr.org/voxeu/columns/global-weather-disruptions-food-commodity-prices-and-economic-activity-global-warning)
+* *What we know about climate change and inflation*. <a href="https://cepr.org/voxeu/columns/what-we-know-about-climate-change-and-inflation">[VoxEU]</a>
+* *Global weather disruptions, food commodity prices, and economic activity: A global warning*. <a href="https://cepr.org/voxeu/columns/global-weather-disruptions-food-commodity-prices-and-economic-activity-global-warning">[VoxEU]</a>
 
 ### Suggested initial readings.
-* For examples of how instruments are constructed, see Känzig (2021) for high-frequency surprises around OPEC announcements, Alessandri & Gazzani (2025) for an instrument based on daily news on the gas market, and the weather and climate papers in the [list of available shock series and instruments](/supervision/#shocks).
-* Aruoba, S. B. & Drechsel, T. (forthcoming). Identifying monetary policy shocks: A natural language approach. *American Economic Journal: Macroeconomics*. <https://www.aeaweb.org/articles?id=10.1257/mac.20240184>
+* For examples of how instruments are constructed, see Känzig (2021) for high-frequency surprises around OPEC announcements, Alessandri & Gazzani (2025) for an instrument based on daily news on the gas market, and the weather and climate papers in the [list of available shock series and instruments](/msc-topics/#shocks).
+* Aruoba, S. B. & Drechsel, T. (forthcoming). Identifying monetary policy shocks: A natural language approach. *American Economic Journal: Macroeconomics*. <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20240184">[DOI]</a>

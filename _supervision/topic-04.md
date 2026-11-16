@@ -15,8 +15,8 @@ location: ""
 </p>
 
 ### Suggested initial readings.
-* Ansari, A. F., Stella, L., Turkmen, C., et al. (2024). Chronos: Learning the language of time series. *Transactions on Machine Learning Research*. <https://arxiv.org/abs/2403.07815>
-* Ansari, A. F., Shchur, O., Küken, J., et al. (2025). Chronos-2: From univariate to universal forecasting. *arXiv preprint*, arXiv:2510.15821. <https://arxiv.org/abs/2510.15821><br>Model: <https://huggingface.co/amazon/chronos-2><br>Code: <https://github.com/amazon-science/chronos-forecasting>
-* Medeiros, M. C., Vasconcelos, G. F., Veiga, Á., & Zilberman, E. (2021). Forecasting inflation in a data-rich environment: The benefits of machine learning methods. *Journal of Business & Economic Statistics*, **39**(1), 98–119. <https://doi.org/10.1080/07350015.2019.1637745>
-* Lewis, D. J., Mertens, K., Stock, J. H., & Trivedi, M. (2021). High-frequency data and a weekly economic index during the pandemic. *AEA Papers and Proceedings*, **111**, 326–330. <https://www.aeaweb.org/articles?id=10.1257/pandp.20211050>
-* Lewis, D. J., Mertens, K., Stock, J. H., & Trivedi, M. (2022). Measuring real activity using a weekly economic index. *Journal of Applied Econometrics*, **37**(4), 667–687. <https://doi.org/10.1002/jae.2873><br>WEI data available at: <https://www.dallasfed.org/research/wei>
+* Ansari, A. F., Stella, L., Turkmen, C., et al. (2024). Chronos: Learning the language of time series. *Transactions on Machine Learning Research*. <a href="https://arxiv.org/abs/2403.07815">[arXiv]</a>
+* Ansari, A. F., Shchur, O., Küken, J., et al. (2025). Chronos-2: From univariate to universal forecasting. *arXiv preprint*, arXiv:2510.15821. <a href="https://arxiv.org/abs/2510.15821">[arXiv]</a> <a href="https://huggingface.co/amazon/chronos-2">[Model]</a> <a href="https://github.com/amazon-science/chronos-forecasting">[Code]</a>
+* Medeiros, M. C., Vasconcelos, G. F., Veiga, Á., & Zilberman, E. (2021). Forecasting inflation in a data-rich environment: The benefits of machine learning methods. *Journal of Business & Economic Statistics*, **39**(1), 98–119. <a href="https://doi.org/10.1080/07350015.2019.1637745">[DOI]</a>
+* Lewis, D. J., Mertens, K., Stock, J. H., & Trivedi, M. (2021). High-frequency data and a weekly economic index during the pandemic. *AEA Papers and Proceedings*, **111**, 326–330. <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211050">[DOI]</a>
+* Lewis, D. J., Mertens, K., Stock, J. H., & Trivedi, M. (2022). Measuring real activity using a weekly economic index. *Journal of Applied Econometrics*, **37**(4), 667–687. <a href="https://doi.org/10.1002/jae.2873">[DOI]</a> <a href="https://www.dallasfed.org/research/wei">[WEI data]</a>
