@@ -29,6 +29,16 @@ Knowledge exchange and advisory roles
 
 <br>
 
+Teaching at policy institutions
+======
+
+{% assign policy_teaching = site.teaching | where: "group", "policy" | sort: "order" %}
+{% for post in policy_teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br>
+
 Engagement events
 ======
 
