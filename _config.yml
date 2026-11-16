@@ -176,6 +176,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  supervision:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -252,6 +255,15 @@ defaults:
       author_profile: true
       share: false
       comment: true
+  # _supervision
+  - scope:
+      path: ""
+      type: supervision
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""
