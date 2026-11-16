@@ -32,10 +32,7 @@ Knowledge exchange and advisory roles
 Teaching at policy institutions
 ======
 
-{% assign policy_teaching = site.teaching | where: "group", "policy" | sort: "order" %}
-{% for post in policy_teaching %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Banco de Portugal, Lisbon** — [*Modern macroeconometrics*](https://github.com/nhauzenb/modern-macroeconometrics), three-day continuing professional development course on modern Bayesian macroeconometrics for economists at the bank (July 2026).
 
 <br>
 
